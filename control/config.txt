@@ -1,0 +1,94 @@
+﻿master Brazil - bRO: Thor
+server 0
+username newbio38
+password @!3AKEdA5$uStUdUdR8s
+loginPinCode 1103
+char 0
+
+poseidonServer 192.168.15.5
+poseidonPort 01
+
+cachePlayerNames 1
+cachePlayerNames_duration 900
+cachePlayerNames_maxSize 100
+
+clientSight 15
+
+attackAuto 2
+attackAuto_inLockOnly 2
+attackAuto_notInTown 1
+attackDistance 1
+attackMaxDistance 1
+attackUseWeapon 1
+
+itemsTakeAuto 1
+itemsGatherAuto 1
+itemsMaxWeight 89
+itemsMaxWeight_sellOrStore 48
+
+teleportAuto_idle 1
+teleportAuto_portal 1
+teleportAuto_useSkill 1
+teleportAuto_minAggressivesInLock 4
+teleportAuto_maxDmg 1500
+
+lockMap ama_dun03
+
+route_avoidWalls 1
+route_teleport 1
+route_teleport_minDistance 100
+route_teleport_maxTries 13
+route_teleport_notInMaps ama_dun01
+route_step 15
+
+sitAuto_sp_lower 25
+sitAuto_sp_upper 85
+
+dealAuto 1
+partyAuto 1
+
+verbose 1
+squelchDomains
+
+sleepTime 100000
+
+ignoreAll 1
+autoTalkCont 1
+
+attackSkillSlot Afanar {
+	lvl 10
+	maxAttempts 8
+	target_notCoinStolen 1
+	sp > 20%
+	target_whenStatusInactive Petrifying, Petrified, Frozen, Stunned, Sleeping, Hiding
+	whenStatusInactive EFST_POSTDELAY
+}
+
+useSelf_skill Curar {
+	lvl 1
+	aggressives < 4
+	hp < 80%
+	whenStatusInactive EFST_POSTDELAY
+}
+
+useSelf_skill Gemini Lumen {
+	lvl 10
+	aggressives < 4
+	inLockOnly 1
+	sp > 20%
+	whenStatusInactive EFST_DUPLELIGHT, EFST_POSTDELAY
+	timeout 4
+}
+
+sellAuto 1
+sellAuto_npc amatsu 206 150
+sellAuto_distance 5
+
+# Configuração Extra #
+gameGuard 1
+saveMap amatsu
+saveMap_warpToBuyOrSell 1
+antigm_relog 1800
+antigm_warning 1
+antigm_reaction 2
+storageEncryptKey 0x050B6F79, 0x0202C179, 0x0E20120, 0x04FA43E3, 0x0179B6C8, 0x05973DF2, 0x07D8D6B, 0x08CB9ED9

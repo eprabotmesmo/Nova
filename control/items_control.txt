@@ -1,0 +1,52 @@
+﻿all 0 1 0
+Shuriken Despedaçado 0 0 1
+Indumentária Ninja 0 0 1
+Gás de Fumaça 0 0 1
+Cinto Shinobi 0 0 1
+Traje de Gatuno [1] 0 0 1
+Máscara Ninja 0 0 1
+Murasame [2] 0 0 1
+Carta Shinobi 0 0 1
+Nariz de Tengu 0 0 1
+Jarro de Saquê 0 0 1
+Shuriken Roda-Gigante Huuma [3] 0 0 1
+Mastela 0 0 1
+Shuriken Roda-Gigante Huuma [4] 0 0 1
+Kit de Culinária Real 0 0 1
+"Coluna de Pedra Nível 5" 0 0 1
+Carta Tengu 0 0 1
+Ferro 0 0 1
+Maçã de Guilherme Tell 0 0 1
+Jellopy Tamanho Família 0 0 1
+Erva Amarela 0 0 1
+Batata Doce Assada 0 0 1
+Panacéia 0 0 1
+Ciclone [2] 0 0 1
+Carta Zumbi Atirador 0 0 1
+Pedaço de Papel 0 0 1
+Lâmina de Papel 0 0 1
+Erva Verde 0 0 1
+Kamaitachi 0 0 1
+Carta Papel 0 0 1
+Velha Caixa Roxa 0 0 1
+Velha Caixa Azul 0 0 1
+Armadilha 0 0 1
+Lupa 0 0 1
+Partículas de Luz 0 0 1
+Rosário [1] 0 0 1
+Minério de Elunium 0 0 1
+Carta Mímico 0 0 1
+Cabelos Perfumados 0 0 1
+Velho Obi 0 0 1
+Erva Branca 0 0 1
+Fragmento Estelar 0 0 1
+Kit de Culinária Profissional 0 0 1
+Hakujin 0 0 1
+Bandolin [3] 0 0 1
+Pincel de Grafite 0 0 0
+Pincel de Maquiagem 0 0 0
+Emblema do Grupo Valhalla 0 0 0
+Adaga III do Grupo Éden [ATQ+3%:Carta Goblin*2] 0 0 0
+Poção do Despertar 0 0 0
+Passe Imperial 0 0 0
+Flecha de Prata 0 0 1

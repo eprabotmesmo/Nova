@@ -1,0 +1,41 @@
+OpenKore version what-will-become-2.1
+@ai_seq = route
+Network state = 5
+Network handler = Network::DirectConnection
+Revision: ctime:2018_10_08
+Loaded plugins:
+  plugins/AntiGM.pl (AntiGM; description: driblar os GMs do jogo)
+  plugins/busCommands.pl (busCommands; description: receive and send commands (and messages too) via BUS system)
+  plugins/desbugar.pl (Desbugar; description: Desbugar)
+  plugins/disconnectCount.pl (disconnectCount; description: disconnect count)
+  plugins/koreShield.pl (koreShield; description: )
+  plugins/poseidon.pl (poseidon; description: custom poseidon authentication)
+  plugins/reconnect.pl (reconnect; description: v1.0)
+  plugins/StopCoinSteal.pl (StopCoinSteal; description: StopCoinSteal)
+
+Error message:
+Assertion ('0' shouldn't be that!) failed!
+ at C:/openkore/src/deps/Carp/Assert.pm line 379
+	Carp::Assert::shouldnt(0, 0) called at src/Network/Send.pm line 230
+	Network::Send::sendToServer('Network::Send::bRO=HASH(0x6229f34)', '') called at src/functions.pl line 741
+	main::mainLoop_initialized() called at src/functions.pl line 75
+	main::mainLoop() called at src/Interface.pm line 75
+	Interface::mainLoop('Interface::Console::Win32=HASH(0x4db867c)') called at openkore.pl line 97
+	main::__start() called at openkore.pl line 212
+
+Stack trace:
+Assertion ('0' shouldn't be that!) failed!
+ at C:/openkore/src/deps/Carp/Assert.pm line 379
+	Carp::Assert::shouldnt(0, 0) called at src/Network/Send.pm line 230
+	Network::Send::sendToServer('Network::Send::bRO=HASH(0x6229f34)', '') called at src/functions.pl line 741
+	main::mainLoop_initialized() called at src/functions.pl line 75
+	main::mainLoop() called at src/Interface.pm line 75
+	Interface::mainLoop('Interface::Console::Win32=HASH(0x4db867c)') called at openkore.pl line 97
+	main::__start() called at openkore.pl line 212
+ at C:/openkore/src/deps/Carp/Assert.pm line 379
+	Carp::Assert::shouldnt(0, 0) called at src/Network/Send.pm line 230
+	Network::Send::sendToServer('Network::Send::bRO=HASH(0x6229f34)', '') called at src/functions.pl line 741
+	main::mainLoop_initialized() called at src/functions.pl line 75
+	main::mainLoop() called at src/Interface.pm line 75
+	Interface::mainLoop('Interface::Console::Win32=HASH(0x4db867c)') called at openkore.pl line 97
+	main::__start() called at openkore.pl line 212

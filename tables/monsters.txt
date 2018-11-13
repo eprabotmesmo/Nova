@@ -1,0 +1,405 @@
+1401 Shinobi
+1405 Tengu
+1191 Mímico
+1404 Miyabi Ningyo
+1403 Zumbi Atirador
+1375 Papel
+1410 Pessegueira Encantada
+1408 Borboleta Sanguinária
+1081 Planta Amarela
+1082 Planta Branca
+1417 Zipper
+1883 Kikimora
+1882 Baba-Yaga
+1081 Planta Amarela
+1078 Planta Vermelha
+2355 Verit
+2353 Minorous
+2354 Múmia
+2354 Múmia
+2354 Múmia
+1314 Batedor
+1316 Soldado
+1319 Congelador
+1987 Centopéia
+2024 Golem de Bradium
+1986 Tatacho
+1256 Peste
+1986 Tatacho
+1037 Sorrateiro
+1031 Poporing
+1139 Louva-a-Deus
+1880 Leshij
+1881 Les
+1884 Mavka
+1322 Coelho
+1321 Lavadeira
+1083 Planta Brilhante
+1884 Mavka
+1083 Planta Brilhante
+1083 Planta Brilhante
+1034 Sapo de Thara
+1099 Argiope
+1031 Poporing
+1885 Gorynych
+1885 Gorynych
+1005 Familiar
+1031 Poporing
+1886 Mavka
+1885 Gorynych
+1885 Gorynych
+1129 Horong
+1885 Gorynych
+1560 Shinobi
+1402 Sapo Venenoso
+1129 Horong
+1129 Horong
+1402 Sapo Venenoso
+1885 Gorynych
+1129 Horong
+1402 Sapo Venenoso
+1402 Sapo Venenoso
+1129 Horong
+1402 Sapo Venenoso
+1129 Horong
+1099 Argiope
+1005 Familiar
+1031 Poporing
+1988 Nepenthes
+1560 Shinobi
+1031 Poporing
+1005 Familiar
+1402 Sapo Venenoso
+1402 Sapo Venenoso
+1402 Sapo Venenoso
+1402 Sapo Venenoso
+1099 Argiope
+1368 Planta Carnívora
+1402 Sapo Venenoso
+1402 Sapo Venenoso
+1560 Shinobi
+1886 Mavka
+1886 Mavka
+1402 Sapo Venenoso
+1129 Horong
+1886 Mavka
+1886 Mavka
+1129 Horong
+1402 Sapo Venenoso
+1989 Leão da Montanha
+1999 Larva de Centopéia
+1560 Shinobi
+1560 Shinobi
+1560 Shinobi
+1560 Shinobi
+1886 Mavka
+1099 Argiope
+1368 Planta Carnívora
+1999 Larva de Centopéia
+1368 Planta Carnívora
+1560 Shinobi
+1560 Shinobi
+1492 Samurai Encarnado
+1492 Samurai Encarnado
+1492 Samurai Encarnado
+1492 Samurai Encarnado
+1492 Samurai Encarnado
+2308 Passa fome Nojutso
+2034 Filhote de Lobo
+2034 Filhote de Lobo
+2347 Eddga
+2060 Alice
+2034 Filhote de Lobo
+1315 Agressor
+1318 Aquecedor
+2034 Filhote de Lobo
+2076 Sombra da Decepção
+2076 Sombra da Decepção
+1364 Assaltante
+1364 Assaltante
+1364 Assaltante
+1364 Assaltante
+2076 Sombra da Decepção
+2076 Sombra da Decepção
+1364 Assaltante
+2076 Sombra da Decepção
+1364 Assaltante
+1364 Assaltante
+1364 Assaltante
+2076 Sombra da Decepção
+1364 Assaltante
+1364 Assaltante
+3087 Lamento de Nidhogg
+1412 Ermitão Maligno
+1699 Mímico Antigo
+1614 Mineral
+1838 Golpeador
+1614 Mineral
+1614 Mineral
+1614 Mineral
+1128 Besouro-Chifre
+1128 Besouro-Chifre
+1141 Marina
+1186 Cochicho
+1775 Yeti
+1704 Odium de Thanatos
+1617 Fornalha Velha
+1382 Diabolik
+1122 Goblin
+1069 Peixe-Espada
+1507 Serial Killer
+1128 Besouro-Chifre
+1178 Zerom
+1503 Árvore Maldita
+1678 Venatu
+1382 Diabolik
+1111 Drainliar
+1122 Goblin
+1587 Kraben
+2038 Valquíria
+2038 Valquíria
+1587 Kraben
+1023 Guerreiro Orc
+1255 Nereida
+1255 Nereida
+1255 Nereida
+1255 Nereida
+1255 Nereida
+1255 Nereida
+1255 Nereida
+1255 Nereida
+1255 Nereida
+1255 Nereida
+1255 Nereida
+1778 Gazeti
+1144 Marte
+1778 Gazeti
+1144 Marte
+1778 Gazeti
+1144 Marte
+1255 Nereida
+1144 Marte
+1778 Gazeti
+1778 Gazeti
+1144 Marte
+1255 Nereida
+1255 Nereida
+1778 Gazeti
+1255 Nereida
+1255 Nereida
+1144 Marte
+1778 Gazeti
+1144 Marte
+1144 Marte
+1144 Marte
+1255 Nereida
+1778 Gazeti
+1144 Marte
+1144 Marte
+1255 Nereida
+1778 Gazeti
+1144 Marte
+1778 Gazeti
+1778 Gazeti
+1144 Marte
+1778 Gazeti
+1778 Gazeti
+1778 Gazeti
+1778 Gazeti
+1144 Marte
+1778 Gazeti
+1255 Nereida
+1778 Gazeti
+1144 Marte
+1778 Gazeti
+1778 Gazeti
+1778 Gazeti
+1778 Gazeti
+1778 Gazeti
+1144 Marte
+1778 Gazeti
+1255 Nereida
+1778 Gazeti
+1778 Gazeti
+1144 Marte
+1255 Nereida
+1778 Gazeti
+1268 Cavaleiro Sanguinário
+1268 Cavaleiro Sanguinário
+1268 Cavaleiro Sanguinário
+1268 Cavaleiro Sanguinário
+1268 Cavaleiro Sanguinário
+1268 Cavaleiro Sanguinário
+1268 Cavaleiro Sanguinário
+1268 Cavaleiro Sanguinário
+1255 Nereida
+1268 Cavaleiro Sanguinário
+1268 Cavaleiro Sanguinário
+1268 Cavaleiro Sanguinário
+1268 Cavaleiro Sanguinário
+1268 Cavaleiro Sanguinário
+1268 Cavaleiro Sanguinário
+1268 Cavaleiro Sanguinário
+1268 Cavaleiro Sanguinário
+1161 Plâncton
+1495 Atirador de Pedras
+1268 Cavaleiro Sanguinário
+1495 Atirador de Pedras
+1495 Atirador de Pedras
+1495 Atirador de Pedras
+1268 Cavaleiro Sanguinário
+1495 Atirador de Pedras
+1495 Atirador de Pedras
+1495 Atirador de Pedras
+1268 Cavaleiro Sanguinário
+1495 Atirador de Pedras
+1268 Cavaleiro Sanguinário
+1268 Cavaleiro Sanguinário
+1495 Atirador de Pedras
+1268 Cavaleiro Sanguinário
+1495 Atirador de Pedras
+1268 Cavaleiro Sanguinário
+1268 Cavaleiro Sanguinário
+1495 Atirador de Pedras
+1268 Cavaleiro Sanguinário
+1495 Atirador de Pedras
+1495 Atirador de Pedras
+1268 Cavaleiro Sanguinário
+1268 Cavaleiro Sanguinário
+1268 Cavaleiro Sanguinário
+1268 Cavaleiro Sanguinário
+1268 Cavaleiro Sanguinário
+1508 Quve
+1508 Quve
+1508 Quve
+1508 Quve
+1508 Quve
+1250 Chepet
+1249 Presente
+1249 Presente
+1250 Chepet
+1249 Presente
+1508 Quve
+1250 Chepet
+1249 Presente
+1392 Giro-Goblin
+1392 Giro-Goblin
+1249 Presente
+1508 Quve
+1508 Quve
+1508 Quve
+1392 Giro-Goblin
+1392 Giro-Goblin
+1508 Quve
+1392 Giro-Goblin
+1508 Quve
+1392 Giro-Goblin
+1392 Giro-Goblin
+1392 Giro-Goblin
+1392 Giro-Goblin
+1392 Giro-Goblin
+1508 Quve
+1508 Quve
+1508 Quve
+1249 Presente
+1250 Chepet
+1249 Presente
+1250 Chepet
+1249 Presente
+1508 Quve
+1508 Quve
+1250 Chepet
+1249 Presente
+1249 Presente
+1508 Quve
+1249 Presente
+1250 Chepet
+1249 Presente
+1508 Quve
+1508 Quve
+1508 Quve
+1508 Quve
+1508 Quve
+1508 Quve
+1508 Quve
+1508 Quve
+1508 Quve
+1508 Quve
+1508 Quve
+1508 Quve
+1508 Quve
+1253 Gárgula
+1185 Sussurro
+1253 Gárgula
+1253 Gárgula
+1276 Raydric Arqueiro
+1185 Sussurro
+1253 Gárgula
+1276 Raydric Arqueiro
+1253 Gárgula
+1253 Gárgula
+1253 Gárgula
+1253 Gárgula
+1253 Gárgula
+1185 Sussurro
+1185 Sussurro
+1276 Raydric Arqueiro
+1185 Sussurro
+1253 Gárgula
+1185 Sussurro
+1185 Sussurro
+1253 Gárgula
+1276 Raydric Arqueiro
+1276 Raydric Arqueiro
+1185 Sussurro
+1253 Gárgula
+1185 Sussurro
+1276 Raydric Arqueiro
+1185 Sussurro
+1253 Gárgula
+1276 Raydric Arqueiro
+1185 Sussurro
+1276 Raydric Arqueiro
+1185 Sussurro
+1253 Gárgula
+1253 Gárgula
+1276 Raydric Arqueiro
+1185 Sussurro
+1185 Sussurro
+1185 Sussurro
+1253 Gárgula
+1276 Raydric Arqueiro
+1185 Sussurro
+1276 Raydric Arqueiro
+1185 Sussurro
+1276 Raydric Arqueiro
+1253 Gárgula
+1253 Gárgula
+1276 Raydric Arqueiro
+1185 Sussurro
+1185 Sussurro
+1185 Sussurro
+1276 Raydric Arqueiro
+1253 Gárgula
+1185 Sussurro
+1276 Raydric Arqueiro
+1253 Gárgula
+1253 Gárgula
+1253 Gárgula
+1509 Lude
+1253 Gárgula
+1253 Gárgula
+1276 Raydric Arqueiro
+1185 Sussurro
+1253 Gárgula
+1185 Sussurro
+1253 Gárgula
+1185 Sussurro
+1253 Gárgula
+1185 Sussurro
+1185 Sussurro
+1253 Gárgula
+1185 Sussurro
+1253 Gárgula
+1253 Gárgula
+1042 Chon Chon de Aço

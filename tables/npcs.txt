@@ -1,0 +1,2728 @@
+ama_dun03 199 101 Túmulo
+mosk_dun03 225 233 Pilha de Esqueletos#mag
+gonryun 153 64 Anunciante de Kunlun
+gonryun 169 71 Guia
+gonryun 163 60 Guia de Kunlun#01gonryu
+gonryun 147 84 Vendedor de Ferramentas
+gonryun 147 101 Cozinheiro Auxiliar
+gonryun 155 122 Kafra Especial#pRO_Prem
+gonryun 156 122 Agente VIP
+gonryun 159 122 Funcionária Kafra
+gonryun 162 122 Oficial do Éden#25
+moscovia 220 191 Agente VIP
+moscovia 220 172 Jovem#mos8
+mosk_in 21 254 Vendedor de Utilidades
+gonryun 149 189 Yotang#Flower_Of_Fairy
+gonryun 166 196 Soldado
+gon_dun01 190 159 #getitem1-2
+gon_dun01 190 160 trace1-2
+moscovia 208 182 Vendedor de Avelãs#mos
+moscovia 224 190 #nowinterplz
+moscovia 209 197 Oficial do Éden#26
+moscovia 168 135 Uma mulher#mos10
+moscovia 149 112 Homem#mos13
+moscovia 167 97 Senhora#mos6
+moscovia 161 76 Guia de Moscóvia#01mosc
+moscovia 152 71 Vendedor de Frutas
+moscovia 135 49 Sr. Ibanoff#npc
+moscovia 135 52 Placa de Aviso#mosk
+moscovia 136 46 Find#ship
+mosk_fild01 86 104 Senhor Estranho#npc
+gon_dun01 139 257 trace1-5
+gon_dun01 140 257 #getitem1-5
+moc_prydn1 94 98 Gato Suspeito#nightmare
+moc_prydn1 94 98 Gato Suspeito#nightmare
+gon_dun01 133 183 trace1-4
+gon_dun01 134 183 #getitem1-4
+man_fild02 88 263 Rocha Misteriosa#33
+tur_dun02 49 158 Pilar da Tartaruga
+man_fild02 346 116 Rocha Misteriosa#38
+gon_dun01 148 156 start01
+ama_dun03 76 73 Túmulo
+gon_dun01 164 53 #getitem1-3
+gon_dun01 201 25 trace1-1
+gon_dun01 202 25 #getitem1-1
+man_fild02 346 116 Rocha Misteriosa#38
+ama_dun03 76 73 Túmulo
+gon_dun01 201 25 trace1-1
+gon_dun01 202 25 #getitem1-1
+man_fild02 241 227 Rocha Misteriosa#40
+gon_dun01 163 53 trace1-3
+gon_dun01 164 53 #getitem1-3
+gon_dun01 201 25 trace1-1
+gon_dun01 163 53 trace1-3
+gon_dun01 164 53 #getitem1-3
+gon_dun01 133 183 trace1-4
+gon_dun01 134 183 #getitem1-4
+gon_dun01 148 156 start01
+man_fild02 358 174 Rocha Misteriosa#39
+mosk_dun01 194 43 Rocha#1-1
+ama_dun03 76 73 Túmulo
+mosk_dun01 170 164 Rocha#1
+mosk_dun01 164 191 Rocha#1-3
+gon_dun01 163 53 trace1-3
+tur_dun02 132 251 Raízes Estranhas
+mosk_dun03 119 46 Rocha#3-1
+mosk_dun01 207 276 Rocha#1-2
+mosk_dun02 168 28 Rocha#2-1
+man_fild02 146 365 Rocha Misteriosa#34
+mosk_dun02 268 117 Rocha#2-3
+mosk_dun03 166 109 Túmulo
+mosk_dun03 119 46 Rocha#3-1
+tur_dun01 160 81 Lápide de Caveira
+man_fild02 140 148 Rocha Misteriosa#32
+tur_dun01 156 36 Instrutor Sobrevivente#
+tur_dun01 165 29 Barqueiro
+alberta 232 106 Gusangs
+alberta 215 111 Funfi
+alberta 196 133 Bardo#job_min
+gon_dun01 201 25 trace1-1
+gon_dun01 202 25 #getitem1-1
+alberta 168 138 Capitão Contrabandista
+alberta 167 135 Cozinheiro Auxiliar
+alberta 247 115 Marinheiro#bra2
+alberta 247 122 Barqueiro
+gon_dun01 163 53 trace1-3
+mosk_dun03 153 90 Pântano#mos1
+mosk_dun03 27 131 Rocha#3-2
+man_fild02 285 115 Rocha Misteriosa#37
+ama_dun03 76 73 Túmulo
+mosk_dun03 153 90 Pântano#mos1
+gon_dun01 201 25 trace1-1
+gon_dun01 202 25 #getitem1-1
+mosk_dun03 153 90 Pântano#mos1
+man_fild02 132 47 Ag. Pata de Gato
+man_fild02 135 49 Gato do Teleporte No.5
+mosk_dun03 166 109 Túmulo
+moc_prydn1 94 98 Gato Suspeito#nightmare
+mosk_dun03 27 131 Rocha#3-2
+tur_dun02 75 249 Pedra de Tartaruga
+gon_dun01 201 25 trace1-1
+gon_dun01 202 25 #getitem1-1
+man_fild02 146 81 Rocha Misteriosa#31
+gon_dun01 163 53 trace1-3
+mosk_dun03 27 131 Rocha#3-2
+man_fild02 146 365 Rocha Misteriosa#34
+tur_dun02 46 125 Pilha de Cristais de Ta
+man_fild02 135 49 Gato do Teleporte No.5
+man_fild02 140 148 Rocha Misteriosa#32
+gonryun 173 84 Vendedor de Armaduras
+tur_dun02 132 251 Raízes Estranhas
+mosk_dun03 27 131 Rocha#3-2
+tur_dun02 75 249 Pedra de Tartaruga
+tur_dun02 46 125 Pilha de Cristais de Ta
+man_fild02 358 174 Rocha Misteriosa#39
+gon_dun01 163 53 trace1-3
+tur_dun02 75 249 Pedra de Tartaruga
+moscovia 211 215 Um jovem#mos12
+gon_dun01 163 53 trace1-3
+gon_dun01 148 156 start01
+alberta 119 65 Porta-voz#alb
+alberta 119 70 Funcionária de Votação 
+alberta 148 60 Torsen#Give Goods
+gon_dun01 163 53 trace1-3
+alberta 214 77 Captain Janssen
+mosk_dun03 153 90 Pântano#mos1
+morocc 154 55 Joalheiro
+morocc 116 39 Agente da Guilda#nd4
+gon_dun01 164 53 #getitem1-3
+morocc 53 87 Vigia da Prisão#sch
+morocc 35 174 Meidi
+moc_ruins 52 85 Joalheiro
+moc_ruins 71 139 Vendedora de Anel
+moc_ruins 59 154 Dona Risadinha
+moc_ruins 59 157 Funcionária Kafra
+gon_dun01 163 53 trace1-3
+moc_prydb1 103 54 Gato Suspeito#nightmare
+moc_prydn1 94 98 Gato Suspeito#nightmare
+man_fild02 248 124 Rocha Misteriosa#36
+gonryun 173 84 Vendedor de Armaduras
+alberta 119 65 Porta-voz#alb
+alberta 124 67 Oficial do Éden#4
+alberta 214 77 Captain Janssen
+gon_dun01 163 53 trace1-3
+mosk_dun03 27 131 Rocha#3-2
+gonryun 173 84 Vendedor de Armaduras
+tur_dun02 46 125 Pilha de Cristais de Ta
+tur_dun02 46 125 Pilha de Cristais de Ta
+man_fild02 336 305 Rocha Misteriosa#35
+morocc 154 55 Joalheiro
+morocc 166 54 Joalheira
+morocc 116 39 Agente da Guilda#nd4
+morocc 53 87 Vigia da Prisão#sch
+morocc 35 174 Meidi
+moc_ruins 52 85 Joalheiro
+moc_ruins 71 139 Vendedora de Anel
+moc_ruins 59 154 Dona Risadinha
+moc_ruins 59 157 Funcionária Kafra
+mosk_dun03 153 90 Pântano#mos1
+tur_dun02 46 125 Pilha de Cristais de Ta
+moc_prydb1 103 54 Gato Suspeito#nightmare
+gon_dun01 202 25 #getitem1-1
+moc_prydn1 94 98 Gato Suspeito#nightmare
+tur_dun02 46 125 Pilha de Cristais de Ta
+gon_dun01 164 53 #getitem1-3
+man_fild02 285 115 Rocha Misteriosa#37
+tur_dun02 75 249 Pedra de Tartaruga
+tur_dun02 46 125 Pilha de Cristais de Ta
+tur_dun02 46 125 Pilha de Cristais de Ta
+man_fild02 241 227 Rocha Misteriosa#40
+gon_dun01 163 53 trace1-3
+gonryun 173 84 Vendedor de Armaduras
+man_fild02 146 81 Rocha Misteriosa#31
+tur_dun02 46 125 Pilha de Cristais de Ta
+alberta 119 65 Porta-voz#alb
+alberta 119 70 Funcionária de Votação 
+alberta 148 60 Torsen#Give Goods
+alberta 214 77 Captain Janssen
+man_fild02 132 47 Ag. Pata de Gato
+amatsu 123 149 Kafra Especial#pRO_Prem
+amatsu 112 164 Guarda do Portão#1
+amatsu 189 166 Kouji
+amatsu 205 163 Mimi
+amatsu 206 150 Cozinheiro Auxiliar
+ama_in02 207 40 Guarda do Portão#3
+ama_in02 207 49 Guarda do Portão#4
+ama_in02 61 27 Alquimista
+ama_in02 203 156 Soldado#8
+ama_in02 115 177 Soldado#10
+ama_dun01 229 7 Soldado#11
+amatsu 123 149 Kafra Especial#pRO_Prem
+amatsu 112 164 Guarda do Portão#1
+amatsu 189 166 Kouji
+amatsu 205 163 Mimi
+amatsu 206 150 Cozinheiro Auxiliar
+amatsu 123 149 Kafra Especial#pRO_Prem
+amatsu 112 164 Guarda do Portão#1
+amatsu 189 166 Kouji
+amatsu 205 163 Mimi
+amatsu 206 150 Cozinheiro Auxiliar
+ama_in02 207 40 Guarda do Portão#3
+ama_in02 207 49 Guarda do Portão#4
+ama_in02 61 27 Alquimista
+ama_in02 203 156 Soldado#8
+ama_in02 115 177 Soldado#10
+ama_in02 207 40 Guarda do Portão#3
+ama_in02 207 49 Guarda do Portão#4
+ama_dun01 229 7 Soldado#11
+ama_in02 42 34 Soldado#7
+ama_in02 203 156 Soldado#8
+ama_in02 115 177 Soldado#10
+ama_dun01 229 7 Soldado#11
+tur_dun02 75 249 Pedra de Tartaruga
+ama_dun03 135 101 Túmulo
+ama_dun03 135 101 Túmulo
+alberta 119 65 Porta-voz#alb
+alberta 124 67 Oficial do Éden#4
+alberta 214 77 Captain Janssen
+alberta 237 71 Tripulante de Optamara#
+ama_dun03 135 101 Túmulo
+ama_dun03 135 101 Túmulo
+tur_dun02 46 125 Pilha de Cristais de Ta
+ama_dun03 135 101 Túmulo
+ama_dun03 135 101 Túmulo
+ama_dun03 135 101 Túmulo
+ama_dun03 135 101 Túmulo
+ama_dun03 135 101 Túmulo
+tur_dun02 46 125 Pilha de Cristais de Ta
+amatsu 123 149 Kafra Especial#pRO_Prem
+amatsu 119 164 Guarda do Portão#2
+amatsu 189 166 Kouji
+amatsu 205 163 Mimi
+amatsu 206 150 Cozinheiro Auxiliar
+ama_in02 207 40 Guarda do Portão#3
+ama_in02 207 49 Guarda do Portão#4
+ama_in02 61 27 Alquimista
+ama_in02 203 156 Soldado#8
+ama_in02 115 177 Soldado#10
+ama_dun01 229 7 Soldado#11
+tur_dun02 46 125 Pilha de Cristais de Ta
+man_fild02 248 124 Rocha Misteriosa#36
+ama_dun03 135 101 Túmulo
+ama_dun03 135 101 Túmulo
+amatsu 123 149 Kafra Especial#pRO_Prem
+amatsu 112 164 Guarda do Portão#1
+amatsu 189 166 Kouji
+amatsu 205 163 Mimi
+amatsu 206 150 Cozinheiro Auxiliar
+gonryun 173 84 Vendedor de Armaduras
+ama_in02 207 40 Guarda do Portão#3
+ama_in02 207 49 Guarda do Portão#4
+ama_in02 61 27 Alquimista
+ama_in02 115 177 Soldado#10
+ama_dun01 229 7 Soldado#11
+gonryun 173 84 Vendedor de Armaduras
+ama_dun03 135 101 Túmulo
+ama_dun03 135 101 Túmulo
+alberta 119 65 Porta-voz#alb
+alberta 119 70 Funcionária de Votação 
+alberta 148 60 Torsen#Give Goods
+alberta 214 77 Captain Janssen
+tur_dun02 75 249 Pedra de Tartaruga
+amatsu 123 149 Kafra Especial#pRO_Prem
+amatsu 112 164 Guarda do Portão#1
+amatsu 164 174 Guarda do Portão#5
+amatsu 189 166 Kouji
+amatsu 205 163 Mimi
+amatsu 206 150 Cozinheiro Auxiliar
+ama_in02 207 40 Guarda do Portão#3
+ama_in02 207 49 Guarda do Portão#4
+ama_in02 61 27 Alquimista
+ama_in02 115 177 Soldado#10
+ama_dun01 229 7 Soldado#11
+tur_dun02 75 249 Pedra de Tartaruga
+tur_dun02 46 125 Pilha de Cristais de Ta
+moscovia 211 215 Um jovem#mos12
+tur_dun02 46 125 Pilha de Cristais de Ta
+gonryun 139 142 Garota Sa
+mosk_dun01 170 164 Rocha#1
+mosk_dun01 164 191 Rocha#1-3
+mosk_dun01 207 276 Rocha#1-2
+mosk_dun02 168 28 Rocha#2-1
+mosk_dun02 268 117 Rocha#2-3
+moc_prydb1 103 54 Gato Suspeito#nightmare
+ama_dun03 135 101 Túmulo
+moc_ruins 59 157 Funcionária Kafra
+moc_ruins 59 154 Dona Risadinha
+moc_ruins 61 164 Quadro de Avisos#pyrami
+moc_ruins 66 164 Treinador Gatuno#T
+moc_ruins 68 164 Oficial do Éden#2
+moc_ruins 75 171 Homem Suspeito#2
+moc_ruins 86 149 #ForeignMerchant1
+moc_ruins 90 149 Vendedor de Bananas
+moc_ruins 91 150 Part-timer
+morocc 154 55 Joalheiro
+morocc 166 54 Joalheira
+morocc 156 70 Garota#sc00
+morocc 156 76 Açougueiro
+morocc 145 82 Emissária de Maroll
+morocc 156 97 Funcionária Kafra
+morocc 160 97 Kafra Especial#pRO_Prem
+morocc 161 97 Oficial do Éden#29
+morocc 145 103 Vendedor de Ferramentas
+moc_para01 31 14 #atnevt01
+moc_para01 44 19 Agente Pata de Gato#gek
+moc_para01 41 22 Kafra dos Biscoitos#GM
+moc_para01 32 30 Spikle#Tuto
+moc_fild20 354 183 Guarda Continental#11_e
+moc_fild20 349 179 Guarda da Fenda
+moc_fild20 368 197 Gato#to22
+moc_fild22b 182 179 Agente Tat#Tat
+mid_camp 206 286 Mensageiro
+mid_camp 222 283 Marian#ep13bs
+mid_camp 240 270 Botânico#ep13
+mid_camp 255 269 Lenha Úmida#moc2_campfi
+mid_camp 247 255 Hue#ep131_rhea02
+mid_camp 255 244 Galfos
+mid_camp 283 198 Bazett#ep13bs
+mid_camp 336 171 Capitão do Acampamento#
+tur_dun02 46 125 Pilha de Cristais de Ta
+ama_dun03 135 101 Túmulo
+mosk_dun03 197 219 Túmulo
+mosk_dun03 197 219 Túmulo
+tur_dun02 46 125 Pilha de Cristais de Ta
+tur_dun02 46 125 Pilha de Cristais de Ta
+mosk_dun03 197 219 Túmulo
+ama_dun03 227 170 Túmulo
+mosk_dun03 197 219 Túmulo
+ama_dun03 227 170 Túmulo
+mosk_dun03 197 219 Túmulo
+ama_dun03 227 170 Túmulo
+mosk_dun03 197 219 Túmulo
+ama_dun03 227 170 Túmulo
+moc_prydn1 94 98 Gato Suspeito#nightmare
+ama_dun03 227 170 Túmulo
+ama_dun03 227 170 Túmulo
+moc_prydb1 103 54 Gato Suspeito#nightmare
+moc_ruins 59 157 Funcionária Kafra
+moc_ruins 59 154 Dona Risadinha
+moc_ruins 61 164 Quadro de Avisos#pyrami
+moc_ruins 66 164 Treinador Gatuno#T
+moc_ruins 68 164 Oficial do Éden#2
+moc_ruins 75 171 Homem Suspeito#2
+moc_ruins 86 149 #ForeignMerchant1
+moc_ruins 90 149 Vendedor de Bananas
+moc_ruins 91 150 Part-timer
+ama_dun03 227 170 Túmulo
+ama_dun03 227 170 Túmulo
+ama_dun03 227 170 Túmulo
+amatsu 123 149 Kafra Especial#pRO_Prem
+amatsu 112 164 Guarda do Portão#1
+amatsu 189 166 Kouji
+amatsu 205 163 Mimi
+amatsu 206 150 Cozinheiro Auxiliar
+ama_in02 207 40 Guarda do Portão#3
+ama_in02 207 49 Guarda do Portão#4
+ama_in02 61 27 Alquimista
+ama_in02 203 156 Soldado#8
+ama_in02 115 177 Soldado#10
+ama_dun01 229 7 Soldado#11
+gonryun 173 84 Vendedor de Armaduras
+gonryun 139 142 Garota Sa
+alberta 196 146 Templário#megin2
+amatsu 123 149 Kafra Especial#pRO_Prem
+amatsu 112 164 Guarda do Portão#1
+amatsu 189 166 Kouji
+amatsu 205 163 Mimi
+amatsu 206 150 Cozinheiro Auxiliar
+ama_dun03 227 170 Túmulo
+ama_in02 207 40 Guarda do Portão#3
+ama_in02 207 49 Guarda do Portão#4
+ama_in02 61 27 Alquimista
+ama_in02 203 156 Soldado#8
+ama_in02 115 177 Soldado#10
+ama_dun01 229 7 Soldado#11
+morocc 154 55 Joalheiro
+morocc 166 54 Joalheira
+morocc 116 39 Agente da Guilda#nd4
+morocc 53 87 Vigia da Prisão#sch
+morocc 43 108 Garoto Esperto#dan_07
+ama_dun03 227 170 Túmulo
+moc_ruins 52 85 Joalheiro
+moc_ruins 71 139 Vendedora de Anel
+moc_ruins 59 154 Dona Risadinha
+moc_ruins 59 157 Funcionária Kafra
+moc_prydb1 103 54 Gato Suspeito#nightmare
+amatsu 123 149 Kafra Especial#pRO_Prem
+amatsu 112 164 Guarda do Portão#1
+amatsu 164 174 Guarda do Portão#5
+amatsu 189 166 Kouji
+amatsu 205 163 Mimi
+amatsu 206 150 Cozinheiro Auxiliar
+ama_in02 207 40 Guarda do Portão#3
+ama_in02 207 49 Guarda do Portão#4
+ama_in02 61 27 Alquimista
+ama_in02 203 156 Soldado#8
+ama_in02 115 177 Soldado#10
+ama_dun01 229 7 Soldado#11
+ama_dun03 227 170 Túmulo
+amatsu 123 149 Kafra Especial#pRO_Prem
+amatsu 112 164 Guarda do Portão#1
+amatsu 123 149 Kafra Especial#pRO_Prem
+amatsu 112 164 Guarda do Portão#1
+amatsu 164 174 Guarda do Portão#5
+amatsu 189 166 Kouji
+amatsu 189 166 Kouji
+amatsu 205 163 Mimi
+amatsu 205 163 Mimi
+amatsu 206 150 Cozinheiro Auxiliar
+amatsu 206 150 Cozinheiro Auxiliar
+ama_in02 207 40 Guarda do Portão#3
+ama_in02 207 40 Guarda do Portão#3
+ama_in02 207 49 Guarda do Portão#4
+ama_in02 207 49 Guarda do Portão#4
+ama_in02 61 27 Alquimista
+ama_in02 61 27 Alquimista
+ama_in02 42 34 Soldado#7
+ama_in02 203 156 Soldado#8
+ama_in02 203 156 Soldado#8
+ama_in02 115 177 Soldado#10
+ama_in02 115 177 Soldado#10
+ama_dun01 229 7 Soldado#11
+ama_dun01 229 7 Soldado#11
+alberta 196 146 Templário#megin2
+tur_dun02 46 125 Pilha de Cristais de Ta
+amatsu 123 149 Kafra Especial#pRO_Prem
+amatsu 112 164 Guarda do Portão#1
+amatsu 189 166 Kouji
+amatsu 205 163 Mimi
+amatsu 206 150 Cozinheiro Auxiliar
+ama_in02 207 40 Guarda do Portão#3
+ama_in02 207 49 Guarda do Portão#4
+ama_in02 61 27 Alquimista
+ama_in02 115 177 Soldado#10
+ama_dun01 229 7 Soldado#11
+amatsu 123 149 Kafra Especial#pRO_Prem
+amatsu 112 164 Guarda do Portão#1
+amatsu 189 166 Kouji
+amatsu 205 163 Mimi
+amatsu 206 150 Cozinheiro Auxiliar
+ama_in02 207 40 Guarda do Portão#3
+ama_in02 207 49 Guarda do Portão#4
+ama_in02 61 27 Alquimista
+ama_in02 203 156 Soldado#8
+ama_in02 115 177 Soldado#10
+ama_dun01 229 7 Soldado#11
+alberta 119 65 Porta-voz#alb
+alberta 119 70 Funcionária de Votação 
+alberta 214 77 Captain Janssen
+alberta 119 65 Porta-voz#alb
+alberta 116 66 Buzzy Bol Machine#01
+alberta 124 67 Oficial do Éden#4
+alberta 148 60 Torsen#Give Goods
+alberta 214 77 Captain Janssen
+ama_dun03 227 170 Túmulo
+alberta 119 65 Porta-voz#alb
+alberta 120 60 Abra#mall
+alberta 120 53 Mercador Estiloso#new30
+alberta 214 77 Captain Janssen
+gonryun 173 84 Vendedor de Armaduras
+gonryun 173 84 Vendedor de Armaduras
+ama_dun03 158 153 Túmulo
+ama_dun03 158 153 Túmulo
+ama_dun03 158 153 Túmulo
+ama_dun03 158 153 Túmulo
+ama_dun03 158 153 Túmulo
+ama_dun03 158 153 Túmulo
+ama_dun03 158 153 Túmulo
+ama_dun03 158 153 Túmulo
+ama_dun03 158 153 Túmulo
+ama_dun03 158 153 Túmulo
+amatsu 123 149 Kafra Especial#pRO_Prem
+amatsu 112 164 Guarda do Portão#1
+amatsu 119 164 Guarda do Portão#2
+amatsu 189 166 Kouji
+amatsu 205 163 Mimi
+amatsu 206 150 Cozinheiro Auxiliar
+ama_in02 207 40 Guarda do Portão#3
+ama_in02 207 49 Guarda do Portão#4
+ama_in02 61 27 Alquimista
+ama_in02 115 177 Soldado#10
+ama_dun01 229 7 Soldado#11
+ama_dun03 158 153 Túmulo
+ama_dun03 158 153 Túmulo
+ama_dun03 158 153 Túmulo
+gonryun 173 84 Vendedor de Armaduras
+ama_dun03 158 153 Túmulo
+ama_dun03 158 153 Túmulo
+amatsu 119 164 Guarda do Portão#2
+ama_in02 42 34 Soldado#7
+gonryun 173 84 Vendedor de Armaduras
+ama_dun03 209 209 Túmulo
+ama_dun03 209 209 Túmulo
+ama_dun03 209 209 Túmulo
+ama_dun03 209 209 Túmulo
+ama_dun03 209 209 Túmulo
+ama_dun03 209 209 Túmulo
+ama_dun03 209 209 Túmulo
+ama_dun03 209 209 Túmulo
+ama_dun03 209 209 Túmulo
+ama_dun03 209 209 Túmulo
+ama_dun03 209 209 Túmulo
+ama_dun03 209 209 Túmulo
+amatsu 119 164 Guarda do Portão#2
+amatsu 119 164 Guarda do Portão#2
+ama_in02 42 34 Soldado#7
+ama_dun03 209 209 Túmulo
+ama_dun03 209 209 Túmulo
+amatsu 119 164 Guarda do Portão#2
+gonryun 173 84 Vendedor de Armaduras
+ama_dun03 209 209 Túmulo
+ama_in02 203 156 Soldado#8
+amatsu 112 164 Guarda do Portão#1
+man_fild01 43 234 Membro do Grupo do Éden
+gonryun 173 84 Vendedor de Armaduras
+ama_dun03 214 150 Túmulo
+ama_dun03 214 150 Túmulo
+ama_dun03 214 150 Túmulo
+ama_dun03 214 150 Túmulo
+ama_dun03 214 150 Túmulo
+ama_dun03 214 150 Túmulo
+ama_dun03 214 150 Túmulo
+ama_dun03 214 150 Túmulo
+ama_dun03 214 150 Túmulo
+ama_dun03 214 150 Túmulo
+ama_dun03 214 150 Túmulo
+ama_dun03 214 150 Túmulo
+ama_dun03 214 150 Túmulo
+ama_dun03 170 37 Túmulo
+ama_dun03 170 37 Túmulo
+ama_dun03 170 37 Túmulo
+ama_dun03 170 37 Túmulo
+ama_dun03 170 37 Túmulo
+ama_dun03 170 37 Túmulo
+ama_dun03 170 37 Túmulo
+ama_dun03 170 37 Túmulo
+moscovia 226 191 Guia de Moscóvia#02mosc
+moscovia 211 215 Um jovem#mos12
+mosk_dun03 191 215 Túmulo
+mosk_dun03 191 215 Túmulo
+mosk_dun03 191 215 Túmulo
+moscovia 226 191 Guia de Moscóvia#02mosc
+ama_dun03 170 37 Túmulo
+mosk_dun03 191 215 Túmulo
+mosk_dun03 191 215 Túmulo
+man_fild01 43 234 Membro do Grupo do Éden
+man_fild01 92 230 Árvore Congelada#evt_lu
+man_fild01 64 197 Rocha Misteriosa#9
+man_fild01 92 155 Rocha Misteriosa#4
+man_fild01 114 174 Rocha Misteriosa#3
+man_fild01 180 170 Rocha Misteriosa#1
+mosk_dun03 191 215 Túmulo
+gonryun 173 84 Vendedor de Armaduras
+moscovia 226 191 Guia de Moscóvia#02mosc
+mosk_dun03 223 192 Túmulo
+mosk_dun03 223 192 Túmulo
+mosk_dun03 223 192 Túmulo
+mosk_dun03 223 192 Túmulo
+mosk_dun03 223 192 Túmulo
+mosk_dun03 223 192 Túmulo
+ama_dun03 130 34 Túmulo
+ama_dun03 130 34 Túmulo
+ama_dun03 130 34 Túmulo
+ama_dun03 130 34 Túmulo
+ama_dun03 130 34 Túmulo
+ama_in02 61 27 Alquimista
+ama_dun03 27 186 Túmulo
+ama_dun03 27 186 Túmulo
+ama_dun03 27 186 Túmulo
+amatsu 100 145 Oficial do Éden#22
+amatsu 102 149 Funcionária Kafra
+ama_dun03 27 186 Túmulo
+alberta 245 93 Capitão
+alberta 114 64 Kafra Especial#pRO_Prem
+amatsu 102 149 Funcionária Kafra
+mid_camp 209 286 Mensageiro#edq3
+morocc 45 103 #prtcurse
+amatsu 171 174 Guarda do Portão#6
+mid_camp 209 286 Mensageiro#edq3
+mid_camp 256 272 Defaria#moc2
+morocc 45 103 #prtcurse
+morocc 45 103 #prtcurse
+amatsu 102 149 Funcionária Kafra
+amatsu 102 152 Agente VIP
+amatsu 100 145 Oficial do Éden#22
+amatsu 102 149 Funcionária Kafra
+amatsu 102 152 Agente VIP
+moc_para01 22 16 Catalogador Mágico#cata
+moc_para01 16 22 Velho Aventureiro#eden
+gonryun 174 101 Vendedor de Armas
+moc_para01 22 16 Catalogador Mágico#cata
+ama_dun03 188 11 Túmulo
+ama_dun03 188 11 Túmulo
+ama_dun03 188 11 Túmulo
+ama_dun03 188 11 Túmulo
+ama_dun03 188 11 Túmulo
+ama_dun03 188 11 Túmulo
+ama_dun03 188 11 Túmulo
+ama_dun03 188 11 Túmulo
+ama_dun03 188 11 Túmulo
+ama_dun03 188 11 Túmulo
+ama_dun03 188 11 Túmulo
+ama_dun03 188 11 Túmulo
+ama_dun03 188 11 Túmulo
+ama_dun03 188 11 Túmulo
+mosk_dun03 143 187 Túmulo
+mosk_dun03 143 187 Túmulo
+mosk_dun03 143 187 Túmulo
+mosk_dun03 143 187 Túmulo
+ama_dun03 188 11 Túmulo
+mosk_dun03 143 187 Túmulo
+mosk_dun03 143 187 Túmulo
+alberta 114 64 Kafra Especial#pRO_Prem
+ama_dun03 192 33 Túmulo
+ama_dun03 192 33 Túmulo
+ama_dun03 192 33 Túmulo
+ama_dun03 192 33 Túmulo
+ama_dun03 192 33 Túmulo
+ama_dun03 192 33 Túmulo
+ama_dun03 192 33 Túmulo
+ama_dun03 192 33 Túmulo
+ama_dun03 192 33 Túmulo
+ama_dun03 192 33 Túmulo
+ama_dun03 192 33 Túmulo
+ama_dun03 192 33 Túmulo
+ama_dun03 192 33 Túmulo
+ama_dun03 192 33 Túmulo
+ama_dun03 192 33 Túmulo
+gon_dun02 23 105 trace2-5
+amatsu 171 174 Guarda do Portão#6
+ama_dun03 26 195 Túmulo
+ama_dun03 26 195 Túmulo
+ama_dun03 26 195 Túmulo
+morocc 45 103 #prtcurse
+ama_dun03 26 195 Túmulo
+ama_dun03 26 195 Túmulo
+ama_dun03 26 195 Túmulo
+ama_dun03 26 195 Túmulo
+ama_dun03 26 195 Túmulo
+ama_dun03 26 195 Túmulo
+ama_dun03 26 195 Túmulo
+ama_dun03 121 80 Túmulo
+ama_dun03 121 80 Túmulo
+ama_dun03 121 80 Túmulo
+ama_dun03 121 80 Túmulo
+ama_dun03 121 80 Túmulo
+ama_dun03 121 80 Túmulo
+ama_dun03 121 80 Túmulo
+ama_dun03 121 80 Túmulo
+ama_dun03 121 80 Túmulo
+ama_dun03 121 80 Túmulo
+ama_dun03 111 34 Túmulo
+ama_dun03 111 34 Túmulo
+ama_dun03 111 34 Túmulo
+ama_dun03 111 34 Túmulo
+ama_dun03 111 34 Túmulo
+ama_dun03 111 34 Túmulo
+ama_dun03 111 34 Túmulo
+ama_dun03 111 34 Túmulo
+mosk_dun03 207 203 Túmulo
+ama_dun03 111 34 Túmulo
+mosk_dun03 207 203 Túmulo
+ama_dun03 111 34 Túmulo
+ama_dun03 35 156 Túmulo
+ama_dun03 35 156 Túmulo
+ama_dun03 35 156 Túmulo
+ama_dun03 35 156 Túmulo
+ama_dun03 35 156 Túmulo
+ama_dun03 35 156 Túmulo
+ama_dun03 35 156 Túmulo
+ama_dun03 35 156 Túmulo
+ama_dun03 35 156 Túmulo
+ama_dun03 35 156 Túmulo
+amatsu 102 152 Agente VIP
+ama_dun03 187 155 Túmulo
+ama_dun03 187 155 Túmulo
+ama_dun03 187 155 Túmulo
+ama_dun03 187 155 Túmulo
+ama_dun03 187 155 Túmulo
+ama_dun03 187 155 Túmulo
+ama_dun03 187 155 Túmulo
+ama_dun03 187 155 Túmulo
+ama_dun03 187 155 Túmulo
+ama_dun03 187 155 Túmulo
+ama_dun03 187 155 Túmulo
+ama_dun03 187 155 Túmulo
+ama_dun03 187 155 Túmulo
+amatsu 171 174 Guarda do Portão#6
+ama_dun03 187 155 Túmulo
+ama_dun03 187 155 Túmulo
+alberta 114 64 Kafra Especial#pRO_Prem
+ama_dun03 220 219 Túmulo
+ama_dun03 220 219 Túmulo
+ama_dun03 220 219 Túmulo
+ama_dun03 220 219 Túmulo
+ama_dun03 220 219 Túmulo
+ama_dun03 220 219 Túmulo
+ama_dun03 220 219 Túmulo
+ama_dun03 220 219 Túmulo
+ama_dun03 220 219 Túmulo
+ama_dun03 220 219 Túmulo
+ama_dun03 220 219 Túmulo
+ama_dun03 220 219 Túmulo
+ama_dun03 220 219 Túmulo
+ama_dun03 220 219 Túmulo
+ama_dun03 220 219 Túmulo
+ama_dun03 169 73 Túmulo
+ama_dun03 169 73 Túmulo
+ama_dun03 169 73 Túmulo
+ama_dun03 169 73 Túmulo
+ama_dun03 169 73 Túmulo
+ama_dun03 169 73 Túmulo
+ama_dun03 169 73 Túmulo
+ama_dun03 169 73 Túmulo
+ama_dun03 169 73 Túmulo
+ama_dun03 169 73 Túmulo
+ama_dun03 169 73 Túmulo
+ama_dun03 169 73 Túmulo
+ama_dun03 169 73 Túmulo
+ama_dun03 169 73 Túmulo
+ama_dun03 169 73 Túmulo
+mosk_dun03 150 109 Túmulo
+mosk_dun03 150 109 Túmulo
+mosk_dun03 150 109 Túmulo
+mosk_dun03 150 109 Túmulo
+mosk_dun03 150 109 Túmulo
+mosk_dun03 150 109 Túmulo
+moc_para01 27 35 Secretária Lenore#eden
+moc_para01 36 38 Solicitações [11 - 25]#
+moc_para01 38 38 Solicitações [26 - 40]#
+man_fild01 170 318 Rocha Misteriosa#5
+mosk_dun03 150 109 Túmulo
+mosk_dun03 200 102 Túmulo
+mosk_dun03 200 102 Túmulo
+mosk_dun03 200 102 Túmulo
+mosk_dun03 200 102 Túmulo
+mosk_dun03 200 102 Túmulo
+mosk_dun03 200 102 Túmulo
+ama_dun03 200 152 Túmulo
+ama_dun03 200 152 Túmulo
+ama_dun03 200 152 Túmulo
+ama_dun03 200 152 Túmulo
+ama_dun03 200 152 Túmulo
+ama_dun03 200 152 Túmulo
+ama_dun03 200 152 Túmulo
+ama_dun03 200 152 Túmulo
+ama_dun03 200 152 Túmulo
+mosk_dun03 200 102 Túmulo
+ama_dun03 200 152 Túmulo
+ama_dun03 200 152 Túmulo
+ama_dun03 200 152 Túmulo
+ama_dun03 200 152 Túmulo
+ama_dun03 200 152 Túmulo
+ama_dun03 200 152 Túmulo
+ama_dun03 91 54 Túmulo
+ama_dun03 91 54 Túmulo
+ama_dun03 91 54 Túmulo
+ama_dun03 91 54 Túmulo
+ama_dun03 91 54 Túmulo
+ama_dun03 91 54 Túmulo
+ama_dun03 91 54 Túmulo
+ama_dun03 91 54 Túmulo
+ama_dun03 91 54 Túmulo
+ama_dun03 91 54 Túmulo
+ama_dun03 91 54 Túmulo
+ama_dun03 91 54 Túmulo
+ama_dun03 91 54 Túmulo
+ama_dun03 91 54 Túmulo
+ama_dun03 91 54 Túmulo
+amatsu 102 152 Agente VIP
+ama_dun03 216 185 Túmulo
+ama_dun03 216 185 Túmulo
+ama_dun03 216 185 Túmulo
+ama_dun03 216 185 Túmulo
+ama_dun03 216 185 Túmulo
+ama_dun03 216 185 Túmulo
+ama_dun03 216 185 Túmulo
+ama_dun03 216 185 Túmulo
+ama_dun03 216 185 Túmulo
+ama_dun03 216 185 Túmulo
+ama_dun03 216 185 Túmulo
+ama_dun03 216 185 Túmulo
+ama_dun03 216 185 Túmulo
+ama_dun03 216 185 Túmulo
+ama_dun03 216 185 Túmulo
+mosk_dun03 210 199 Túmulo
+mosk_dun03 210 199 Túmulo
+mosk_dun03 210 199 Túmulo
+mosk_dun03 210 199 Túmulo
+mosk_dun03 210 199 Túmulo
+mosk_dun03 210 199 Túmulo
+mosk_dun03 210 199 Túmulo
+morocc 45 103 #prtcurse
+ama_dun03 122 221 Túmulo
+ama_dun03 122 221 Túmulo
+ama_dun03 122 221 Túmulo
+ama_dun03 122 221 Túmulo
+ama_dun03 122 221 Túmulo
+ama_dun03 122 221 Túmulo
+ama_dun03 122 221 Túmulo
+ama_dun03 122 221 Túmulo
+ama_dun03 122 221 Túmulo
+ama_dun03 122 221 Túmulo
+ama_dun03 122 221 Túmulo
+ama_dun03 122 221 Túmulo
+ama_dun03 122 221 Túmulo
+ama_dun03 122 221 Túmulo
+ama_dun03 122 221 Túmulo
+gonryun 174 101 Vendedor de Armas
+ama_dun03 167 21 Túmulo
+mosk_dun03 209 210 Túmulo
+ama_dun03 167 21 Túmulo
+mosk_dun03 209 210 Túmulo
+ama_dun03 167 21 Túmulo
+ama_dun03 167 21 Túmulo
+ama_dun03 113 33 Túmulo
+ama_dun03 113 33 Túmulo
+ama_dun03 181 125 Túmulo
+ama_dun03 181 125 Túmulo
+ama_dun03 181 125 Túmulo
+ama_dun03 33 15 Túmulo
+ama_dun03 33 15 Túmulo
+ama_dun03 33 15 Túmulo
+ama_dun03 33 15 Túmulo
+ama_dun03 33 15 Túmulo
+ama_dun03 33 15 Túmulo
+ama_dun03 33 15 Túmulo
+ama_dun03 33 15 Túmulo
+ama_dun03 33 15 Túmulo
+ama_dun03 33 15 Túmulo
+ama_dun03 33 15 Túmulo
+ama_dun03 33 15 Túmulo
+ama_dun03 33 15 Túmulo
+ama_dun03 33 15 Túmulo
+ama_dun03 33 15 Túmulo
+ama_dun03 197 178 Túmulo
+ama_dun03 197 178 Túmulo
+ama_dun03 197 178 Túmulo
+ama_dun03 197 178 Túmulo
+ama_dun03 197 178 Túmulo
+ama_dun03 197 178 Túmulo
+ama_dun03 197 178 Túmulo
+ama_dun03 197 178 Túmulo
+ama_dun03 197 178 Túmulo
+ama_dun03 197 178 Túmulo
+ama_dun03 197 178 Túmulo
+ama_dun03 197 178 Túmulo
+ama_dun03 197 178 Túmulo
+ama_dun03 197 178 Túmulo
+ama_dun03 197 178 Túmulo
+ama_dun03 82 140 Túmulo
+ama_dun03 82 140 Túmulo
+ama_dun03 82 140 Túmulo
+ama_dun03 82 140 Túmulo
+ama_dun03 82 140 Túmulo
+ama_dun03 82 140 Túmulo
+ama_dun03 82 140 Túmulo
+ama_dun03 82 140 Túmulo
+ama_dun03 82 140 Túmulo
+ama_dun03 82 140 Túmulo
+ama_dun03 82 140 Túmulo
+ama_dun03 82 140 Túmulo
+ama_dun03 82 140 Túmulo
+ama_dun03 82 140 Túmulo
+ama_dun03 82 140 Túmulo
+ama_dun03 214 122 Túmulo
+ama_dun03 214 122 Túmulo
+ama_dun03 214 122 Túmulo
+ama_dun03 214 122 Túmulo
+ama_dun03 214 122 Túmulo
+mosk_dun03 193 131 Túmulo
+mosk_dun03 193 131 Túmulo
+ama_dun03 170 139 Túmulo
+ama_dun03 170 139 Túmulo
+mosk_dun03 193 131 Túmulo
+ama_dun03 170 139 Túmulo
+ama_dun03 170 139 Túmulo
+ama_dun03 170 139 Túmulo
+mosk_dun03 193 131 Túmulo
+mosk_dun03 193 131 Túmulo
+ama_dun03 170 139 Túmulo
+ama_dun03 170 139 Túmulo
+ama_dun03 170 139 Túmulo
+ama_dun03 170 139 Túmulo
+ama_dun03 170 139 Túmulo
+ama_dun03 170 139 Túmulo
+ama_dun03 170 139 Túmulo
+ama_dun03 170 139 Túmulo
+ama_dun03 170 139 Túmulo
+mosk_dun03 193 131 Túmulo
+ama_dun03 170 139 Túmulo
+mosk_dun03 193 131 Túmulo
+ama_dun03 28 54 Túmulo
+ama_dun03 28 54 Túmulo
+ama_dun03 28 54 Túmulo
+ama_dun03 28 54 Túmulo
+ama_dun03 28 54 Túmulo
+ama_dun03 28 54 Túmulo
+mosk_dun03 62 176 Túmulo
+mosk_dun03 62 176 Túmulo
+mosk_dun03 62 176 Túmulo
+mosk_dun03 62 176 Túmulo
+ama_dun03 28 54 Túmulo
+mosk_dun03 62 176 Túmulo
+ama_dun03 28 54 Túmulo
+ama_dun03 28 54 Túmulo
+ama_dun03 28 54 Túmulo
+ama_dun03 28 54 Túmulo
+ama_dun03 28 54 Túmulo
+ama_dun03 28 54 Túmulo
+ama_dun03 28 54 Túmulo
+ama_dun03 28 54 Túmulo
+mosk_dun03 62 176 Túmulo
+alberta 104 60 Agente VIP
+alberta 114 70 Funcionário de Votação 
+alberta 113 60 Kafra Recepcioniosta
+alberta 113 53 Dona Risadinha
+alberta 111 59 Quadro de Avisos#albert
+gonryun 180 118 Homem de Ferro
+ama_dun03 127 63 Túmulo
+ama_dun03 127 63 Túmulo
+ama_dun03 127 63 Túmulo
+ama_dun03 127 63 Túmulo
+ama_dun03 127 63 Túmulo
+ama_dun03 127 63 Túmulo
+ama_dun03 127 63 Túmulo
+ama_dun03 127 63 Túmulo
+ama_dun03 127 63 Túmulo
+ama_dun03 127 63 Túmulo
+ama_dun03 127 63 Túmulo
+ama_dun03 127 63 Túmulo
+ama_dun03 127 63 Túmulo
+ama_dun03 127 63 Túmulo
+ama_dun03 127 63 Túmulo
+morocc 60 42 Jovem#moc
+ama_dun03 211 217 Túmulo
+ama_dun03 211 217 Túmulo
+ama_dun03 211 217 Túmulo
+ama_dun03 211 217 Túmulo
+ama_dun03 211 217 Túmulo
+ama_dun03 211 217 Túmulo
+ama_dun03 211 217 Túmulo
+ama_dun03 211 217 Túmulo
+ama_dun03 211 217 Túmulo
+ama_dun03 211 217 Túmulo
+ama_dun03 211 217 Túmulo
+ama_dun03 211 217 Túmulo
+ama_dun03 211 217 Túmulo
+ama_dun03 211 217 Túmulo
+ama_dun03 211 217 Túmulo
+mosk_dun03 220 95 Túmulo
+mosk_dun03 220 95 Túmulo
+ama_dun03 178 39 Túmulo
+ama_dun03 178 39 Túmulo
+ama_dun03 178 39 Túmulo
+ama_dun03 178 39 Túmulo
+ama_dun03 178 39 Túmulo
+ama_dun03 178 39 Túmulo
+mosk_dun03 220 95 Túmulo
+ama_dun03 178 39 Túmulo
+ama_dun03 178 39 Túmulo
+ama_dun03 178 39 Túmulo
+mosk_dun03 220 95 Túmulo
+ama_dun03 178 39 Túmulo
+mosk_dun03 220 95 Túmulo
+ama_dun03 178 39 Túmulo
+mosk_dun03 220 95 Túmulo
+ama_dun03 178 39 Túmulo
+ama_dun03 178 39 Túmulo
+ama_dun03 178 39 Túmulo
+ama_dun03 178 39 Túmulo
+ama_dun03 145 223 Túmulo
+ama_dun03 145 223 Túmulo
+ama_dun03 145 223 Túmulo
+ama_dun03 145 223 Túmulo
+ama_dun03 145 223 Túmulo
+ama_dun03 145 223 Túmulo
+ama_dun03 145 223 Túmulo
+ama_dun03 145 223 Túmulo
+ama_dun03 145 223 Túmulo
+ama_dun03 145 223 Túmulo
+ama_dun03 145 223 Túmulo
+ama_dun03 145 223 Túmulo
+ama_dun03 145 223 Túmulo
+ama_dun03 145 223 Túmulo
+ama_dun03 145 223 Túmulo
+ama_dun03 158 101 Túmulo
+tur_dun03 38 209 Chama Azul#sc_f01
+tur_dun03 105 76 Chefe dos Cavaleiros
+tur_dun03 189 126 Membro da Brigada
+tur_dun03 118 233 Pedra de Tartaruga
+tur_dun03 104 171 Membro da Brigada
+tur_dun03 118 233 Pedra de Tartaruga
+tur_dun03 104 171 Membro da Brigada
+tur_dun03 67 130 Membro da Brigada
+tur_dun03 105 76 Chefe dos Cavaleiros
+tur_dun03 105 74 Membro da Brigada
+tur_dun03 67 130 Membro da Brigada
+tur_dun03 118 233 Pedra de Tartaruga
+tur_dun03 189 126 Membro da Brigada
+tur_dun03 104 171 Membro da Brigada
+tur_dun03 105 74 Membro da Brigada
+tur_dun03 67 130 Membro da Brigada
+tur_dun03 67 130 Membro da Brigada
+tur_dun03 38 209 Chama Azul#sc_f01
+tur_dun03 189 126 Membro da Brigada
+tur_dun03 105 74 Membro da Brigada
+tur_dun03 67 130 Membro da Brigada
+tur_dun03 118 233 Pedra de Tartaruga
+tur_dun03 118 233 Pedra de Tartaruga
+tur_dun03 189 126 Membro da Brigada
+tur_dun03 105 74 Membro da Brigada
+tur_dun03 105 74 Membro da Brigada
+tur_dun03 105 76 Chefe dos Cavaleiros
+tur_dun03 105 74 Membro da Brigada
+tur_dun03 67 130 Membro da Brigada
+tur_dun03 38 209 Chama Azul#sc_f01
+tur_dun03 104 171 Membro da Brigada
+tur_dun03 105 74 Membro da Brigada
+tur_dun03 104 171 Membro da Brigada
+alberta_in 188 21 Vendedor de Armas
+alberta_in 180 15 Vendedor de Armaduras
+alberta_in 188 21 Vendedor de Armas
+alberta_in 180 15 Vendedor de Armaduras
+mosk_dun03 227 139 Túmulo
+mosk_dun03 227 139 Túmulo
+mosk_dun03 227 139 Túmulo
+mosk_dun03 227 139 Túmulo
+mosk_dun03 227 139 Túmulo
+mosk_dun03 227 139 Túmulo
+mosk_dun03 227 139 Túmulo
+mosk_dun03 227 139 Túmulo
+mosk_dun03 227 139 Túmulo
+mosk_dun03 227 139 Túmulo
+mosk_dun03 227 139 Túmulo
+mosk_dun03 227 139 Túmulo
+mosk_dun03 227 139 Túmulo
+mosk_dun03 227 139 Túmulo
+mosk_dun03 227 139 Túmulo
+mosk_dun03 227 139 Túmulo
+ama_dun03 154 97 Túmulo
+ama_dun03 154 97 Túmulo
+ama_dun03 154 97 Túmulo
+ama_dun03 154 97 Túmulo
+ama_dun03 154 97 Túmulo
+ama_dun03 154 97 Túmulo
+ama_dun03 154 97 Túmulo
+ama_dun03 154 97 Túmulo
+ama_dun03 154 97 Túmulo
+ama_dun03 154 97 Túmulo
+ama_dun03 154 97 Túmulo
+ama_dun03 154 97 Túmulo
+ama_dun03 154 97 Túmulo
+ama_dun03 154 97 Túmulo
+ama_dun03 154 97 Túmulo
+ama_dun03 154 97 Túmulo
+ama_dun03 154 97 Túmulo
+ama_dun03 154 97 Túmulo
+ama_dun03 154 97 Túmulo
+ama_dun03 56 196 Túmulo
+mosk_dun03 173 106 Túmulo
+mosk_dun03 173 106 Túmulo
+mosk_dun03 173 106 Túmulo
+mosk_dun03 173 106 Túmulo
+mosk_dun03 173 106 Túmulo
+mosk_dun03 173 106 Túmulo
+mosk_dun03 173 106 Túmulo
+mosk_dun03 173 106 Túmulo
+mosk_dun03 173 106 Túmulo
+mosk_dun03 173 106 Túmulo
+morocc 171 103 Vendedor de Itens
+tur_dun04 113 178 Pedra de Tartaruga
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+ama_dun03 181 33 Túmulo
+morocc 171 103 Vendedor de Itens
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+ama_dun03 134 163 Túmulo
+mosk_dun03 206 217 Túmulo
+mosk_dun03 206 217 Túmulo
+mosk_dun03 206 217 Túmulo
+mosk_dun03 206 217 Túmulo
+mosk_dun03 206 217 Túmulo
+mosk_dun03 206 217 Túmulo
+mosk_dun03 206 217 Túmulo
+mosk_dun03 206 217 Túmulo
+mosk_dun03 206 217 Túmulo
+mosk_dun03 206 217 Túmulo
+mosk_dun03 206 217 Túmulo
+mosk_dun03 206 217 Túmulo
+mosk_dun03 206 217 Túmulo
+mosk_dun03 206 217 Túmulo
+mosk_dun03 206 217 Túmulo
+mosk_dun03 206 217 Túmulo
+mosk_dun03 194 219 Túmulo
+mosk_dun03 194 219 Túmulo
+mosk_dun03 194 219 Túmulo
+mosk_dun03 194 219 Túmulo
+mid_camp 238 250 Cavaleiro Rúnico Sábio
+mosk_dun03 194 219 Túmulo
+mosk_dun03 194 219 Túmulo
+mosk_dun03 194 219 Túmulo
+mosk_dun03 194 219 Túmulo
+mosk_dun03 194 219 Túmulo
+mosk_dun03 194 219 Túmulo
+mosk_dun03 194 219 Túmulo
+mosk_dun03 194 219 Túmulo
+mosk_dun03 194 219 Túmulo
+mosk_dun03 194 219 Túmulo
+mosk_dun03 194 219 Túmulo
+mosk_dun03 194 219 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 215 24 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+ama_dun03 28 171 Túmulo
+mosk_dun03 98 188 Túmulo
+mosk_dun03 98 188 Túmulo
+mosk_dun03 98 188 Túmulo
+mosk_dun03 98 188 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+ama_dun03 59 73 Túmulo
+mosk_dun03 98 188 Túmulo
+ama_dun03 59 73 Túmulo
+mosk_dun03 98 188 Túmulo
+mosk_dun03 98 188 Túmulo
+mosk_dun03 98 188 Túmulo
+mosk_dun03 98 188 Túmulo
+mosk_dun03 98 188 Túmulo
+mosk_dun03 98 188 Túmulo
+mosk_dun03 206 204 Túmulo
+mosk_dun03 206 204 Túmulo
+mosk_dun03 206 204 Túmulo
+mosk_dun03 206 204 Túmulo
+mosk_dun03 206 204 Túmulo
+mosk_dun03 206 204 Túmulo
+mosk_dun03 206 204 Túmulo
+mosk_dun03 206 204 Túmulo
+mosk_dun03 206 204 Túmulo
+mosk_dun03 206 204 Túmulo
+mosk_dun03 206 204 Túmulo
+mosk_dun03 206 204 Túmulo
+mosk_dun03 206 204 Túmulo
+mosk_dun03 206 204 Túmulo
+mosk_dun03 206 204 Túmulo
+mosk_dun03 206 204 Túmulo
+man_fild01 70 246 Rocha Misteriosa#8
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 205 151 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+gon_dun02 23 106 #getitem2-5
+ama_dun03 194 130 Túmulo
+ama_dun03 194 130 Túmulo
+mosk_dun03 200 220 Túmulo
+mosk_dun03 200 220 Túmulo
+mosk_dun03 200 220 Túmulo
+ama_dun03 194 130 Túmulo
+mosk_dun03 200 220 Túmulo
+mosk_dun03 200 220 Túmulo
+mosk_dun03 200 220 Túmulo
+mosk_dun03 200 220 Túmulo
+mosk_dun03 200 220 Túmulo
+mosk_dun03 200 220 Túmulo
+ama_dun03 194 130 Túmulo
+mosk_dun03 200 220 Túmulo
+mosk_dun03 200 220 Túmulo
+mosk_dun03 200 220 Túmulo
+mosk_dun03 200 220 Túmulo
+mosk_dun03 200 220 Túmulo
+mosk_dun03 200 220 Túmulo
+mosk_dun03 200 220 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+ama_dun03 131 57 Túmulo
+mid_camp 203 286 Mensageiro#edq2
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+ama_dun03 31 195 Túmulo
+man_fild01 80 248 Alberto#ep13bs
+man_fild01 70 246 Rocha Misteriosa#8
+man_fild01 80 248 Alberto#ep13bs
+man_fild01 70 246 Rocha Misteriosa#8
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+mosk_dun03 109 113 Túmulo
+mosk_dun03 109 113 Túmulo
+mosk_dun03 109 113 Túmulo
+mosk_dun03 109 113 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+mosk_dun03 109 113 Túmulo
+mosk_dun03 109 113 Túmulo
+mosk_dun03 109 113 Túmulo
+mosk_dun03 109 113 Túmulo
+ama_dun03 18 18 Túmulo
+mosk_dun03 109 113 Túmulo
+mosk_dun03 109 113 Túmulo
+mosk_dun03 109 113 Túmulo
+mosk_dun03 109 113 Túmulo
+mosk_dun03 109 113 Túmulo
+ama_dun03 18 18 Túmulo
+mosk_dun03 109 113 Túmulo
+mosk_dun03 109 113 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+mosk_dun03 109 113 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+ama_dun03 18 18 Túmulo
+tur_dun01 190 115 Membro da Brigada
+man_fild01 147 157 Rocha Misteriosa#2
+man_fild01 118 238 Rocha Misteriosa#7
+man_fild01 80 248 Alberto#ep13bs
+man_fild01 80 248 Alberto#ep13bs
+man_fild01 70 246 Rocha Misteriosa#8
+man_fild01 315 95 Batedor
+man_fild01 59 261 #evt_lumis
+gon_dun02 23 106 #getitem2-5
+man_fild01 80 248 Alberto#ep13bs
+man_fild01 70 246 Rocha Misteriosa#8
+man_fild01 118 238 Rocha Misteriosa#7
+man_fild01 315 95 Batedor
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+tur_dun01 190 115 Membro da Brigada
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 222 72 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+ama_dun03 68 26 Túmulo
+man_fild01 315 95 Batedor
+ama_dun03 68 26 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+ama_dun03 95 123 Túmulo
+man_fild01 315 95 Batedor
+man_fild01 59 261 #evt_lumis
+mosk_dun03 159 147 Túmulo
+ama_dun03 192 184 Túmulo
+mosk_dun03 159 147 Túmulo
+ama_dun03 192 184 Túmulo
+ama_dun03 192 184 Túmulo
+ama_dun03 192 184 Túmulo
+mosk_dun03 159 147 Túmulo
+ama_dun03 192 184 Túmulo
+ama_dun03 192 184 Túmulo
+mosk_dun03 159 147 Túmulo
+ama_dun03 192 184 Túmulo
+ama_dun03 192 184 Túmulo
+mosk_dun03 159 147 Túmulo
+ama_dun03 192 184 Túmulo
+ama_dun03 192 184 Túmulo
+ama_dun03 192 184 Túmulo
+ama_dun03 192 184 Túmulo
+mosk_dun03 159 147 Túmulo
+ama_dun03 192 184 Túmulo
+ama_dun03 192 184 Túmulo
+ama_dun03 192 184 Túmulo
+ama_dun03 192 184 Túmulo
+ama_dun03 192 184 Túmulo
+mosk_dun03 159 147 Túmulo
+ama_dun03 192 184 Túmulo
+ama_dun03 192 184 Túmulo
+ama_dun03 192 184 Túmulo
+ama_dun03 192 184 Túmulo
+mosk_dun03 159 147 Túmulo
+ama_dun03 192 184 Túmulo
+ama_dun03 192 184 Túmulo
+ama_dun03 192 184 Túmulo
+ama_dun03 192 184 Túmulo
+ama_dun03 192 184 Túmulo
+mosk_dun03 159 147 Túmulo
+mosk_dun03 159 147 Túmulo
+mosk_dun03 159 147 Túmulo
+ama_dun03 192 184 Túmulo
+ama_dun03 192 184 Túmulo
+ama_dun03 192 184 Túmulo
+mosk_dun03 159 147 Túmulo
+ama_dun03 192 184 Túmulo
+mosk_dun03 159 147 Túmulo
+mosk_dun03 159 147 Túmulo
+ama_dun03 192 184 Túmulo
+mosk_dun03 159 147 Túmulo
+ama_dun03 192 184 Túmulo
+ama_dun03 192 184 Túmulo
+ama_dun03 192 184 Túmulo
+ama_dun03 192 184 Túmulo
+mosk_dun03 159 147 Túmulo
+mosk_dun03 217 211 Túmulo
+mosk_dun03 217 211 Túmulo
+mosk_dun03 217 211 Túmulo
+mosk_dun03 217 211 Túmulo
+mosk_dun03 217 211 Túmulo
+mosk_dun03 217 211 Túmulo
+mosk_dun03 217 211 Túmulo
+mosk_dun03 217 211 Túmulo
+mosk_dun03 217 211 Túmulo
+mosk_dun03 217 211 Túmulo
+mosk_dun03 217 211 Túmulo
+mosk_dun03 217 211 Túmulo
+mosk_dun03 217 211 Túmulo
+mosk_dun03 217 211 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+mosk_dun03 217 211 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+mosk_dun03 217 211 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+ama_dun03 156 203 Túmulo
+mosk_dun03 203 217 Túmulo
+mosk_dun03 203 217 Túmulo
+mosk_dun03 203 217 Túmulo
+mosk_dun03 203 217 Túmulo
+mosk_dun03 203 217 Túmulo
+mosk_dun03 203 217 Túmulo
+mosk_dun03 203 217 Túmulo
+mosk_dun03 203 217 Túmulo
+mosk_dun03 203 217 Túmulo
+mosk_dun03 203 217 Túmulo
+mosk_dun03 203 217 Túmulo
+mosk_dun03 203 217 Túmulo
+mosk_dun03 203 217 Túmulo
+moscovia 166 53 Relações Públicas#1
+mosk_dun03 203 217 Túmulo
+mosk_dun03 203 217 Túmulo
+mosk_dun03 203 217 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+mosk_fild02 198 53 #mos_dun
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+ama_dun03 19 129 Túmulo
+mosk_dun03 218 199 Túmulo
+mosk_dun03 218 199 Túmulo
+mosk_dun03 218 199 Túmulo
+mosk_dun03 218 199 Túmulo
+mosk_dun03 218 199 Túmulo
+mosk_dun03 218 199 Túmulo
+mosk_dun03 218 199 Túmulo
+mosk_dun03 218 199 Túmulo
+mosk_dun03 218 199 Túmulo
+mosk_dun03 218 199 Túmulo
+mosk_dun03 218 199 Túmulo
+mosk_dun03 218 199 Túmulo
+mosk_dun03 218 199 Túmulo
+mosk_dun03 218 199 Túmulo
+mosk_dun03 218 199 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+mosk_dun03 218 199 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+ama_dun03 226 59 Túmulo
+mosk_dun03 218 199 Túmulo
+ama_dun03 226 59 Túmulo
+man_fild01 146 269 Rocha Misteriosa#6
+ama_dun03 226 59 Túmulo
+mosk_dun03 206 213 Túmulo
+mosk_dun03 206 213 Túmulo
+mosk_dun03 206 213 Túmulo
+mosk_dun03 206 213 Túmulo
+ama_dun03 89 172 Túmulo
+ama_dun03 89 172 Túmulo
+ama_dun03 89 172 Túmulo
+ama_dun03 89 172 Túmulo
+ama_dun03 89 172 Túmulo
+mosk_dun03 202 211 Túmulo
+mosk_dun03 202 211 Túmulo
+mosk_dun03 202 211 Túmulo
+mosk_dun03 202 211 Túmulo
+mosk_dun03 202 211 Túmulo
+mosk_dun03 202 211 Túmulo
+mosk_dun03 202 211 Túmulo
+mosk_dun03 202 211 Túmulo
+mosk_dun03 202 211 Túmulo
+mosk_dun03 202 211 Túmulo
+mosk_dun03 202 211 Túmulo
+mosk_dun03 202 211 Túmulo
+mosk_dun03 202 211 Túmulo
+mosk_dun03 202 211 Túmulo
+mosk_dun03 202 211 Túmulo
+mosk_dun03 202 211 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+mosk_dun03 202 211 Túmulo
+tur_dun01 203 155 Pedra de Tartaruga
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 49 193 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+ama_dun03 98 165 Túmulo
+mosk_dun03 217 227 Túmulo
+mosk_dun03 217 227 Túmulo
+mosk_dun03 217 227 Túmulo
+ama_dun03 203 110 Túmulo
+ama_dun03 203 110 Túmulo
+ama_dun03 203 110 Túmulo
+ama_dun03 203 110 Túmulo
+mosk_dun03 217 227 Túmulo
+ama_dun03 203 110 Túmulo
+ama_dun03 203 110 Túmulo
+mosk_dun03 217 227 Túmulo
+mosk_dun03 217 227 Túmulo
+mosk_dun03 217 227 Túmulo
+ama_dun03 203 110 Túmulo
+ama_dun03 203 110 Túmulo
+ama_dun03 203 110 Túmulo
+ama_dun03 203 110 Túmulo
+ama_dun03 203 110 Túmulo
+mosk_dun03 217 227 Túmulo
+ama_dun03 203 110 Túmulo
+ama_dun03 203 110 Túmulo
+ama_dun03 203 110 Túmulo
+ama_dun03 203 110 Túmulo
+ama_dun03 203 110 Túmulo
+ama_dun03 203 110 Túmulo
+mosk_dun03 217 227 Túmulo
+ama_dun03 203 110 Túmulo
+mosk_dun03 217 227 Túmulo
+ama_dun03 203 110 Túmulo
+ama_dun03 203 110 Túmulo
+mosk_dun03 217 227 Túmulo
+ama_dun03 203 110 Túmulo
+mosk_dun03 217 227 Túmulo
+ama_dun03 203 110 Túmulo
+mosk_dun03 217 227 Túmulo
+ama_dun03 203 110 Túmulo
+ama_dun03 203 110 Túmulo
+ama_dun03 203 110 Túmulo
+ama_dun03 203 110 Túmulo
+mosk_dun03 217 227 Túmulo
+moscovia 223 191 Funcionária Kafra
+moscovia 233 204 Jovem#mos2
+moscovia 223 191 Funcionária Kafra
+moscovia 233 204 Jovem#mos2
+moscovia 223 191 Funcionária Kafra
+moscovia 233 204 Jovem#mos2
+moscovia 223 191 Funcionária Kafra
+moscovia 223 191 Funcionária Kafra
+moscovia 233 204 Jovem#mos2
+moscovia 223 191 Funcionária Kafra
+moscovia 233 204 Jovem#mos2
+moscovia 233 204 Jovem#mos2
+moscovia 223 191 Funcionária Kafra
+moscovia 233 204 Jovem#mos2
+moscovia 223 191 Funcionária Kafra
+moscovia 233 204 Jovem#mos2
+moscovia 223 191 Funcionária Kafra
+moscovia 223 191 Funcionária Kafra
+moscovia 233 204 Jovem#mos2
+moscovia 233 204 Jovem#mos2
+ama_dun03 203 110 Túmulo
+moscovia 204 188 Jovem#mos5
+moscovia 204 188 Jovem#mos5
+moscovia 204 188 Jovem#mos5
+moscovia 204 188 Jovem#mos5
+moscovia 204 188 Jovem#mos5
+moscovia 204 188 Jovem#mos5
+moscovia 204 188 Jovem#mos5
+moscovia 204 188 Jovem#mos5
+moscovia 204 188 Jovem#mos5
+prontera 114 77 Dolangmal#Pron
+prontera 114 77 Dolangmal#Pron
+prontera 114 77 Dolangmal#Pron
+prontera 114 77 Dolangmal#Pron
+prontera 105 66 Estilista Especial
+prontera 114 77 Dolangmal#Pron
+prontera 105 66 Estilista Especial
+prontera 105 66 Estilista Especial
+prontera 105 66 Estilista Especial
+prontera 103 65 Piercing Brosnan#pa0829
+prontera 105 66 Estilista Especial
+prontera 103 65 Piercing Brosnan#pa0829
+prontera 103 65 Piercing Brosnan#pa0829
+prontera 107 65 Encantador Diabólico#pr
+morocc 176 101 Administrador
+morocc 176 101 Administrador
+morocc 176 101 Administrador
+moscovia 171 71 Berbayeff#npc
+moscovia 171 71 Berbayeff#npc
+moscovia 171 71 Berbayeff#npc
+moscovia 171 71 Berbayeff#npc
+moscovia 171 71 Berbayeff#npc
+moscovia 171 71 Berbayeff#npc
+moscovia 171 71 Berbayeff#npc
+moscovia 171 71 Berbayeff#npc
+moscovia 171 71 Berbayeff#npc
+moscovia 171 71 Berbayeff#npc
+alberta 165 83 Velho Melindroso
+alberta 165 83 Velho Melindroso
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 165 83 Velho Melindroso
+alberta 165 83 Velho Melindroso
+alberta 165 83 Velho Melindroso
+alberta 165 83 Velho Melindroso
+alberta 165 83 Velho Melindroso
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 165 83 Velho Melindroso
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 165 83 Velho Melindroso
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 136 79 Tempestra
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 136 79 Tempestra
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 136 79 Tempestra
+alberta 136 79 Tempestra
+moc_prydb1 53 126 Oficial do Éden#9
+alberta 136 79 Tempestra
+alberta 136 79 Tempestra
+alberta 165 83 Velho Melindroso
+alberta 136 79 Tempestra
+moc_prydb1 39 129 Gatuna Ajudante
+alberta 136 79 Tempestra
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 136 79 Tempestra
+moc_prydb1 42 133 Thief Guildsman
+alberta 136 79 Tempestra
+moc_prydb1 53 126 Oficial do Éden#9
+moc_prydb1 39 129 Gatuna Ajudante
+moc_prydb1 42 133 Thief Guildsman
+moc_prydb1 53 126 Oficial do Éden#9
+moc_prydb1 39 129 Gatuna Ajudante
+moc_prydb1 42 133 Thief Guildsman
+moc_para01 20 35 Assistente#eden
+moc_para01 25 35 Instrutora Boya#para01
+moc_para01 23 35 Instrutor Uru#2nd01
+moc_para01 40 38 Solicitações [41 - 55]
+moc_para01 44 38 Solicitações [71 - 85]
+moc_para01 42 38 Solicitações [55 - 70]
+moc_prydb1 53 126 Oficial do Éden#9
+moc_prydb1 39 129 Gatuna Ajudante
+moc_prydb1 42 133 Thief Guildsman
+moc_prydb1 53 126 Oficial do Éden#9
+moc_prydb1 53 126 Oficial do Éden#9
+moc_prydb1 39 129 Gatuna Ajudante
+moc_prydb1 39 129 Gatuna Ajudante
+moc_prydb1 42 133 Thief Guildsman
+moc_prydb1 42 133 Thief Guildsman
+moc_prydb1 53 126 Oficial do Éden#9
+moc_prydb1 39 129 Gatuna Ajudante
+moc_prydb1 42 133 Thief Guildsman
+alberta 165 83 Velho Melindroso
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 136 79 Tempestra
+moc_prydb1 53 126 Oficial do Éden#9
+moc_prydb1 39 129 Gatuna Ajudante
+moc_prydb1 42 133 Thief Guildsman
+moscovia 223 191 Funcionária Kafra
+moscovia 233 204 Jovem#mos2
+moscovia 223 191 Funcionária Kafra
+moscovia 233 204 Jovem#mos2
+moscovia 223 191 Funcionária Kafra
+moscovia 233 204 Jovem#mos2
+moscovia 223 191 Funcionária Kafra
+moscovia 233 204 Jovem#mos2
+moscovia 204 188 Jovem#mos5
+moscovia 204 188 Jovem#mos5
+moc_prydb1 53 126 Oficial do Éden#9
+moc_prydb1 39 129 Gatuna Ajudante
+moc_prydb1 42 133 Thief Guildsman
+moscovia 223 191 Funcionária Kafra
+moscovia 233 204 Jovem#mos2
+moscovia 223 191 Funcionária Kafra
+moscovia 233 204 Jovem#mos2
+moscovia 171 71 Berbayeff#npc
+alberta 165 83 Velho Melindroso
+moscovia 171 71 Berbayeff#npc
+moscovia 171 71 Berbayeff#npc
+moscovia 171 71 Berbayeff#npc
+alberta 151 78 Bebete#Statue_Of_Baby_A
+moscovia 223 191 Funcionária Kafra
+alberta 136 79 Tempestra
+moscovia 233 204 Jovem#mos2
+moscovia 204 188 Jovem#mos5
+moscovia 204 188 Jovem#mos5
+alberta 165 83 Velho Melindroso
+alberta 165 83 Velho Melindroso
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 165 83 Velho Melindroso
+alberta 165 83 Velho Melindroso
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 136 79 Tempestra
+alberta 136 79 Tempestra
+alberta 136 79 Tempestra
+alberta 136 79 Tempestra
+moscovia 171 71 Berbayeff#npc
+moscovia 171 71 Berbayeff#npc
+moscovia 171 71 Berbayeff#npc
+alberta 165 83 Velho Melindroso
+alberta 165 83 Velho Melindroso
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 136 79 Tempestra
+alberta 136 79 Tempestra
+alberta 165 83 Velho Melindroso
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 136 79 Tempestra
+alberta 165 83 Velho Melindroso
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 165 83 Velho Melindroso
+alberta 165 83 Velho Melindroso
+alberta 165 83 Velho Melindroso
+alberta 136 79 Tempestra
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 165 83 Velho Melindroso
+alberta 136 79 Tempestra
+alberta 165 83 Velho Melindroso
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 136 79 Tempestra
+alberta 136 79 Tempestra
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 136 79 Tempestra
+alberta 165 83 Velho Melindroso
+alberta 165 83 Velho Melindroso
+alberta 136 79 Tempestra
+alberta 165 83 Velho Melindroso
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 165 83 Velho Melindroso
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 136 79 Tempestra
+alberta 136 79 Tempestra
+alberta 165 83 Velho Melindroso
+alberta 136 79 Tempestra
+alberta 165 83 Velho Melindroso
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 136 79 Tempestra
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 165 83 Velho Melindroso
+alberta 165 83 Velho Melindroso
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 136 79 Tempestra
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 136 79 Tempestra
+alberta 165 83 Velho Melindroso
+alberta 165 83 Velho Melindroso
+alberta 165 83 Velho Melindroso
+alberta 136 79 Tempestra
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 136 79 Tempestra
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 165 83 Velho Melindroso
+alberta 136 79 Tempestra
+alberta 136 79 Tempestra
+alberta 136 79 Tempestra
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 136 79 Tempestra
+alberta 165 83 Velho Melindroso
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 165 83 Velho Melindroso
+alberta 136 79 Tempestra
+alberta 165 83 Velho Melindroso
+alberta 165 83 Velho Melindroso
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 165 83 Velho Melindroso
+alberta 136 79 Tempestra
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 136 79 Tempestra
+alberta 136 79 Tempestra
+alberta 136 79 Tempestra
+alberta 165 83 Velho Melindroso
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 165 83 Velho Melindroso
+alberta 136 79 Tempestra
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 165 83 Velho Melindroso
+alberta 136 79 Tempestra
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 165 83 Velho Melindroso
+alberta 165 83 Velho Melindroso
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 136 79 Tempestra
+alberta 136 79 Tempestra
+alberta 136 79 Tempestra
+alberta 165 83 Velho Melindroso
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 165 83 Velho Melindroso
+alberta 136 79 Tempestra
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 136 79 Tempestra
+alberta 165 83 Velho Melindroso
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 165 83 Velho Melindroso
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 136 79 Tempestra
+alberta 165 83 Velho Melindroso
+alberta 136 79 Tempestra
+alberta 151 78 Bebete#Statue_Of_Baby_A
+alberta 136 79 Tempestra
+alberta 245 69 Barqueiro de Kunlun
+alberta 245 69 Barqueiro de Kunlun
+alberta 245 69 Barqueiro de Kunlun
+alberta 245 66 R. Públicas de Moscóvia
+alberta 245 69 Barqueiro de Kunlun
+alberta 245 69 Barqueiro de Kunlun
+alberta 245 69 Barqueiro de Kunlun
+alberta 245 66 R. Públicas de Moscóvia
+alberta 245 66 R. Públicas de Moscóvia
+alberta 245 69 Barqueiro de Kunlun
+alberta 245 69 Barqueiro de Kunlun
+alberta 245 66 R. Públicas de Moscóvia
+alberta 245 66 R. Públicas de Moscóvia
+alberta 245 66 R. Públicas de Moscóvia
+alberta 245 69 Barqueiro de Kunlun
+alberta 245 69 Barqueiro de Kunlun
+alberta 245 66 R. Públicas de Moscóvia
+alberta 245 66 R. Públicas de Moscóvia
+alberta 245 66 R. Públicas de Moscóvia
+alberta 245 66 R. Públicas de Moscóvia
+ama_dun03 203 110 Túmulo
+prontera 121 77 Porta-voz#prt
+prontera 141 97 Mulher Bondosa#job_min
+prontera 121 77 Porta-voz#prt
+prontera 141 97 Mulher Bondosa#job_min
+prontera 121 77 Porta-voz#prt
+prontera 146 98 Kafra Especial#pRO_prem
+prontera 141 97 Mulher Bondosa#job_min
+prontera 146 98 Kafra Especial#pRO_prem
+prontera 146 93 Agente VIP
+prontera 141 97 Mulher Bondosa#job_min
+prontera 121 77 Porta-voz#prt
+prontera 146 98 Kafra Especial#pRO_prem
+prontera 146 93 Agente VIP
+prontera 146 98 Kafra Especial#pRO_prem
+prontera 146 89 Funcionária Kafra
+prontera 146 93 Agente VIP
+prontera 146 89 Funcionária Kafra
+prontera 141 97 Mulher Bondosa#job_min
+prontera 146 93 Agente VIP
+prontera 146 89 Funcionária Kafra
+prontera 146 98 Kafra Especial#pRO_prem
+prontera 146 93 Agente VIP
+prontera 146 89 Funcionária Kafra
+mosk_dun03 217 227 Túmulo
+ama_dun03 203 110 Túmulo
+moc_para01 40 38 Solicitações [41 - 55]
+moc_para01 40 38 Solicitações [41 - 55]
+moc_para01 44 38 Solicitações [71 - 85]
+moc_para01 44 38 Solicitações [71 - 85]
+moc_para01 40 38 Solicitações [41 - 55]
+ama_dun03 203 110 Túmulo
+moc_para01 40 38 Solicitações [41 - 55]
+moc_para01 25 35 Instrutora Boya#para01
+moc_para01 40 38 Solicitações [41 - 55]
+moc_para01 40 38 Solicitações [41 - 55]
+moc_para01 44 38 Solicitações [71 - 85]
+moc_para01 40 38 Solicitações [41 - 55]
+moc_para01 40 38 Solicitações [41 - 55]
+moc_fild20 354 174 Guarda Continental#12_e
+moc_para01 42 38 Solicitações [55 - 70]
+moc_fild13 32 171 Guarda Continental#man1
+moc_fild20 354 174 Guarda Continental#12_e
+moc_fild20 354 174 Guarda Continental#12_e
+moc_fild20 354 174 Guarda Continental#12_e
+moc_fild20 354 174 Guarda Continental#12_e
+moc_fild20 354 174 Guarda Continental#12_e
+moc_fild20 354 174 Guarda Continental#12_e
+moc_fild13 32 171 Guarda Continental#man1
+moc_fild13 32 171 Guarda Continental#man1
+moc_fild13 32 171 Guarda Continental#man1
+moc_fild20 354 174 Guarda Continental#12_e
+morocc 143 63 Maltrapilho#nd
+moc_fild20 354 174 Guarda Continental#12_e
+moc_fild13 32 171 Guarda Continental#man1
+moc_fild13 32 171 Guarda Continental#man1
+moc_fild13 32 171 Guarda Continental#man1
+morocc 143 63 Maltrapilho#nd
+moc_fild13 32 171 Guarda Continental#man1
+moc_fild13 32 171 Guarda Continental#man1
+morocc 143 63 Maltrapilho#nd
+morocc 143 63 Maltrapilho#nd
+morocc 143 63 Maltrapilho#nd
+morocc 143 63 Maltrapilho#nd
+morocc 143 63 Maltrapilho#nd
+morocc 143 63 Maltrapilho#nd
+morocc 52 197 Caixa Registradora#ep14
+morocc 50 197 Contador#ep14_3
+moc_ruins 143 43 Jovem Assassino#07rhea_
+moc_ruins 93 53 Vendedor de Itens
+moc_ruins 90 67 Homem Suspeito#1
+moc_ruins 87 103 Sujeito Estranho
+moc_ruins 87 109 Açougueiro
+moc_ruins 88 136 #ForeignMerchant2
+moc_para01 40 38 Solicitações [41 - 55]
+ama_dun03 203 110 Túmulo
+alberta 245 69 Barqueiro de Kunlun
+alberta 245 66 R. Públicas de Moscóvia
+alberta 245 69 Barqueiro de Kunlun
+alberta 245 69 Barqueiro de Kunlun
+alberta 245 66 R. Públicas de Moscóvia
+alberta 245 69 Barqueiro de Kunlun
+alberta 245 66 R. Públicas de Moscóvia
+alberta 245 66 R. Públicas de Moscóvia
+alberta 245 69 Barqueiro de Kunlun
+alberta 245 69 Barqueiro de Kunlun
+alberta 245 66 R. Públicas de Moscóvia
+alberta 245 66 R. Públicas de Moscóvia
+ama_dun03 203 110 Túmulo
+ama_dun03 203 110 Túmulo
+ama_dun03 203 110 Túmulo
+mosk_dun03 217 227 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+mosk_dun03 208 198 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+mosk_dun03 208 198 Túmulo
+mosk_dun03 208 198 Túmulo
+mosk_dun03 208 198 Túmulo
+mosk_dun03 208 198 Túmulo
+ama_dun03 156 140 Túmulo
+mosk_dun03 208 198 Túmulo
+ama_dun03 156 140 Túmulo
+mosk_dun03 208 198 Túmulo
+mosk_dun03 208 198 Túmulo
+mosk_dun03 208 198 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+mosk_dun03 208 198 Túmulo
+ama_dun03 156 140 Túmulo
+mosk_dun03 208 198 Túmulo
+mosk_dun03 208 198 Túmulo
+mosk_dun03 208 198 Túmulo
+mosk_dun03 208 198 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+mosk_dun03 208 198 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+mosk_dun03 208 198 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 156 140 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 218 66 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+moc_ruins 137 70 Homem com Livro#garas
+moc_ruins 137 89 Guarda da Fenda
+moc_ruins 155 107 Arikari#07rhea_24
+moc_ruins 141 125 Sr. Irrelevante
+moc_ruins 121 116 Silviaje#07rhea_23
+moc_ruins 125 135 Vendedor de Armas
+moc_ruins 115 144 Jovem Mercador#07rhea_1
+moc_ruins 109 138 Jovem Minerador#07rhea_
+moc_ruins 106 140 Tamarin#ep14bs_ru
+moc_ruins 106 133 #ForeignMerchant3
+moc_ruins 104 133 Funcionária de Votação 
+moc_ruins 101 133 Mercador Estrangeiro#ar
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 125 202 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+ama_dun03 186 96 Túmulo
+mosk_dun03 221 195 Túmulo
+mosk_dun03 221 195 Túmulo
+mosk_dun03 221 195 Túmulo
+mosk_dun03 221 195 Túmulo
+mosk_dun03 221 195 Túmulo
+mosk_dun03 221 195 Túmulo
+mosk_dun03 221 195 Túmulo
+mosk_dun03 221 195 Túmulo
+mosk_dun03 221 195 Túmulo
+mosk_dun03 221 195 Túmulo
+mosk_dun03 221 195 Túmulo
+mosk_dun03 221 195 Túmulo
+mosk_dun03 221 195 Túmulo
+mosk_dun03 221 195 Túmulo
+mosk_dun03 221 195 Túmulo
+mosk_dun03 221 195 Túmulo
+mosk_dun03 221 195 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 181 118 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 98 40 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 23 217 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+ama_dun03 205 31 Túmulo
+mosk_dun03 182 224 Túmulo
+mosk_dun03 182 224 Túmulo
+mosk_dun03 182 224 Túmulo
+mosk_dun03 182 224 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 215 36 Túmulo
+ama_dun03 130 53 Túmulo
+ama_dun03 130 53 Túmulo

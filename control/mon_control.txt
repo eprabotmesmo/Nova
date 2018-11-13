@@ -1,0 +1,169 @@
+﻿all -1 0 0
+Shinobi 1 0 1
+Tengu 1 0 1
+Zumbi Atirador 1 0 1
+Papel 1 0 1
+Mímico 1 0 1
+Miyabi Ningyo 1 0 1
+Samurai Encarnado -1 1 0
+Mamute Rochoso -1 1 0
+Sombra Obscura -1 1 0
+Leão de Vinhas -1 1 0
+Naga -1 1 0
+Centopéia -1 1 0
+Cornus -1 1 0
+Rata -1 1 0
+Duneyrr -1 1 0
+Tatacho -1 1 0
+Leão da Montanha -1 1 0
+Vespa Vagalume -1 1 0
+Árvore Anciã -1 1 0
+Golem de Bradium -1 1 0
+Sombra da Ira -1 1 0
+Sombra da Inveja -1 1 0
+Sombra da Gula -1 1 0
+Sombra da Vaidade -1 1 0
+Kathryne Keyron -1 1 0
+Odium de Thanatos -1 1 0
+Seyren Windsor -1 1 0
+Salamandra -1 1 0
+Margaretha Sorin -1 1 0
+Hydrolancer -1 1 0
+Despero de Thanatos -1 1 0
+Necromancer -1 1 0
+Eremes Guile -1 1 0
+Guardião Espadachim -1 1 0
+Byrogue -1 1 0
+Apocalipse Infernal -1 1 0
+Succubus -1 1 0
+Kasa -1 1 0
+Rhyncho -1 1 0
+Phylla -1 1 0
+Mestra Banshee -1 1 0
+Howard Alt-Eisen -1 1 0
+Maero de Thanatos -1 1 0
+Pesar de Thanatos -1 1 0
+Skeggiold -1 1 0
+Pinguicula Sombria -1 1 0
+Aqua Elemental -1 1 0
+Cavaleiro Sanguinário -1 1 0
+Cecil Damon -1 1 0
+Zakudam -1 1 0
+Draco -1 1 0
+Maya Macho -1 1 0
+Dimik -1 1 0
+Acidus -1 1 0
+Guardião Arqueiro -1 1 0
+Pinguicula -1 1 0
+Larva de Centopéia -1 1 0
+Mula Sem Cabeça -1 1 0
+Medusa -1 1 0
+Cavaleiro do Abismo -1 1 0
+Archdam -1 1 0
+Iara -1 1 0
+Pesadelo Sombrio -1 1 0
+Ilusão das Trevas -1 1 0
+Golem de Larva -1 1 0
+Senhora do Conforto -1 1 0
+Massacre -1 1 0
+Mysteltainn -1 1 0
+Gato de Nove Caudas -1 1 0
+Imp -1 1 0
+Anubis -1 1 0
+Barão Curuja -1 1 0
+Duque Coruja -1 1 0
+Incubus -1 1 0
+Violy -1 1 0
+Aliot -1 1 0
+Zumbi Dilacerado -1 1 0
+Nepenthes -1 1 0
+Piranha -1 1 0
+Andarilho -1 1 0
+Aparição -1 1 0
+Fendark -1 1 0
+Esqueleto General -1 1 0
+Agav -1 1 0
+Metaling Pesado -1 1 0
+Grifo -1 1 0
+Congelador -1 1 0
+Serial Killer -1 1 0
+Venatu -1 1 0
+Gemini-S58 -1 1 0
+Cobalto -1 1 0
+Rybio -1 1 0
+Tirfing -1 1 0
+Agressor -1 1 0
+Loli Ruri -1 1 0
+Ursinho -1 1 0
+Cão Infernal -1 1 0
+Onça -1 1 0
+Chimera -1 1 0
+Soldado -1 1 0
+Harpia -1 1 0 
+Ferus -1 1 0
+Skogul -1 1 0
+Mestre Beholder -1 1 0
+Tucano -1 1 0
+Bode -1 1 0
+Ungoliant -1 1 0
+Aliza -1 1 0
+Frus -1 1 0
+Echio -1 1 0
+Diabinho -1 1 0
+Aquecedor -1 1 0
+Grizzly -1 1 0
+Fornalha Velha -1 1 0
+Curupira -1 1 0
+Verme Ancião -1 1 0
+Diabolik -1 1 0
+Majoruros -1 1 0
+Apocalypse -1 1 0
+Exterminador -1 1 0
+Armeyer Dinze -1 1 0
+Executor -1 1 0
+Dragão Mutante -1 1 0
+Líder Kobold -1 1 0
+Anjo Frajuto -1 1 0
+Exterminador Voador -1 1 0
+Rastreador -1 1 0
+Goblin Líder -1 1 0
+Lagarta -1 1 0
+Ancião -1 1 0
+Canhão de Fóton -1 1 0
+Khalitzburg -1 1 0
+Jirtas -1 1 0
+Gerente -1 1 0
+Gajomart -1 1 0
+Batedor -1 1 0
+Foca -1 1 0
+Ninfa Perversa -1 1 0
+Mavka -1 1 0
+Alice -1 1 0
+Creamy Ameaçador -1 1 0
+Zumbi Mestre -1 1 0
+Gullinbursti -1 1 0
+Dullahan -1 1 0
+Mao Guai -1 1 0
+Wickebine Tres -1 1 0
+Isilla -1 1 0
+Aunoe -1 1 0
+Fanat -1 1 0
+Pasana -1 1 0
+Anolian -1 1 0
+Sting -1 1 0
+Am Mut -1 1 0
+Yakuza -1 1 0
+Lavadeira -1 1 0
+Filhote de Hatii -1 1 0
+Laurell Weinder -1 1 0
+Hodremlin -1 1 0
+Uzhas -1 1 0
+Kaho -1 1 0
+Relógio -1 1 0
+Golem Estalactítico -1 1 0
+Ferrão -1 1 0
+Kavach Icarus -1 1 0
+Múmia Anciã -1 1 0
+Yeti -1 1 0
+Titã de Gelo -1 1 0
+Crânio Flamejante -1 1 0
